@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - publications.qmd
+    - cv.qmd
+  resources:
+    - cv.pdf
+website:
+  title: Samuel Plach
+  site-url: https://samuelplach.github.io
+  description: "Samuel Plach — PhD candidate at Bocconi University. Research on social networks, intergenerational mobility, inequality, and fertility."
+  navbar:
+    background: light
+    left:
+      - href: index.qmd
+        text: Home
+      - href: publications.qmd
+        text: Publications
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: envelope
+        href: mailto:samuel.plach@unibocconi.it
+        aria-label: Email Samuel Plach
+      - icon: github
+        href: https://github.com/SamuelPlach
+        aria-label: GitHub
+  page-footer:
+    left: Samuel Plach
+    right: "[Email](mailto:samuel.plach@unibocconi.it) · [ORCID](https://orcid.org/0000-0001-6819-9907)"
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    lang: en
+    toc: false
+    link-external-newwindow: true
+    anchor-sections: true

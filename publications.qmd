@@ -1,0 +1,135 @@
+---
+title: "Publications"
+---
+
+## Journal articles
+
+::: {.publication}
+::: {.pub-year}
+2026 · In press
+:::
+
+### What is People’s Ideal Number of Children and do They Achieve It?
+
+**Plach, S.**, A. Aassve, L. Mencarini.
+
+*Demographic Research*.
+:::
+
+::: {.publication}
+::: {.pub-year}
+2026 · In press
+:::
+
+### Beyond Spending: Governance Quality and Citizens’ Perceptions of Public Institutions as Drivers of Individual Resilience
+
+**Plach, S.**, A. Aassve.
+
+*Journal of International and Comparative Social Policy*.
+:::
+
+::: {.publication}
+::: {.pub-year}
+2026
+:::
+
+### [Fertility Dynamics across High-Income Countries in a New Era of Polycrisis](https://doi.org/10.1111/padr.70091)
+
+**Plach, S.**, A. Aassve, N. Cavalli, M. Valetto.
+
+*Population and Development Review, 52: 872–907*.
+:::
+
+::: {.publication}
+::: {.pub-year}
+2026
+:::
+
+### [Parenthood Decisions in Uncertain Times: Experimental Evidence from Four Countries](https://doi.org/10.1073/pnas.2601690123)
+
+Aassve, A., L. Mencarini, C. Peng, **S. Plach**, A. R. Amarales, M. L. Tanturri.
+
+*Proceedings of the National Academy of Sciences, 123 (31), e2601690123*.
+:::
+
+::: {.publication}
+::: {.pub-year}
+2024
+:::
+
+### [Family Ideals in an Era of Low Fertility](https://doi.org/10.1073/pnas.2311847121)
+
+Aassve, A., A. Adserà, P. Y. Chang, L. Mencarini, H. Park, C. Peng, **S. Plach**, J. M. Raymo, S. Wang, J. Yeung Wei-Jun.
+
+*Proceedings of the National Academy of Sciences, 121 (6)*.
+:::
+
+::: {.publication}
+::: {.pub-year}
+2023
+:::
+
+### [COVID-19 policy interventions and fertility dynamics in the context of pre-pandemic welfare support](https://doi.org/10.1111/padr.12557)
+
+**Plach, S.**, A. Aassve, N. Cavalli, L. Mencarini, S. Sanders.
+
+*Population and Development Review, 50(S1): 363–393*.
+:::
+
+::: {.publication}
+::: {.pub-year}
+2022
+:::
+
+### [The association between COVID-19 policy responses and mental well-being: Evidence from 28 European countries](https://doi.org/10.1016/j.socscimed.2022.114906)
+
+Toffolutti, V., **S. Plach**, T. Maksimovic, G. Piccitto, M. Mascherini, L. Mencarini, A. Aassve.
+
+*Social Science & Medicine, 114906*.
+:::
+
+::: {.publication}
+::: {.pub-year}
+2021
+:::
+
+### [Early assessment of the relationship between the COVID-19 pandemic and births in high-income countries](https://doi.org/10.1073/pnas.2105709118)
+
+Aassve, A., N. Cavalli, L. Mencarini, S. **Plach, S.** Sanders.
+
+*Proceedings of the National Academy of Sciences, 118 (36)*.
+:::
+
+::: {.publication}
+::: {.pub-year}
+2020
+:::
+
+### [The COVID-19 pandemic and human fertility](https://doi.org/10.1126/science.abc9520)
+
+Aassve, A., N. Cavalli, L. Mencarini, **S. Plach**, M. Livi Bacci.
+
+*Science, 369 (6502): 370–371*.
+:::
+
+## Selected work in progress
+
+- Plach, S., J. Garcia-Bernardo, B. Rosche, Z. Parolin. Social Networks and Intergenerational Mobility: Neighborhood and School Peer Effects.
+
+- Plach, S., Z. Parolin. Social Capital, Automation, and Intergenerational Mobility.
+
+- Garcia-Bernardo, J., E. Jaspers, W. Machado, S. Plach, E. J. van Leeuwen. Beyond Parents? Prediction Gaps in University Completion Using Population-Scale Networks and Flexible Machine Learning.
+
+- Plach, S., M. Perotti, A. Aassve, L. Mencarini. Ideological Gender Differences and Partnership Formation.
+
+- Park, H., N. Cavalli, S. Plach, S. Y. Yoon. When Childbearing Starts at Thirty: Korea at the Fertility Frontier.
+
+- Plach, S., E. Latora, A. Aassve, L. Mencarini. How large is the Fertility Gap between People’s Ideals and Realizations and What Explains it?
+
+- Plach, S., E. Latora, A. Aassve, L. Mencarini. Fertility Ideals and the Fertility Gap across 86 Countries. The Role of Education.
+
+- Latora, E., S. Plach, A. Aassve, L. Mencarini. Social Networks and the Gap between Fertility Ideals and Realizations.
+
+## Research assistance
+
+Research assistance on Corno, L., E. La Ferrara, A. Voena (2020). *Female Genital Cutting and the Slave Trade*. CEPR Discussion Paper No. DP15577.

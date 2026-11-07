@@ -1,0 +1,36 @@
+---
+title: "Samuel Plach"
+pagetitle: "Samuel Plach | Bocconi University"
+---
+
+::: {.profile-kicker}
+Social networks · Intergenerational mobility · Fertility
+:::
+
+::: {.profile-subtitle}
+PhD candidate, Bocconi University  
+Researcher, Carlo F. Dondena Centre
+:::
+
+::: {.profile-links}
+[Email](mailto:samuel.plach@unibocconi.it) · [Google Scholar](https://scholar.google.com/citations?user=R1I6fq0AAAAJ) · [ORCID](https://orcid.org/0000-0001-6819-9907) · [LinkedIn](https://www.linkedin.com/in/samuel-plach/)
+:::
+
+I am a PhD candidate in Social and Political Science at Bocconi University and a researcher at the Carlo F. Dondena Centre for Research on Social Dynamics and Public Policy. My research examines how social relationships and wider economic and institutional conditions shape individuals’ opportunities to achieve important life aspirations, including socio-economic upward mobility and the realization of their fertility ideals.
+
+A central strand of my work investigates how social networks and peer environments affect intergenerational mobility. Using large-scale administrative data, I study how exposure to peers in neighborhoods and schools shapes children's later-life outcomes beyond parental income. Using digital-trace data, I also examine how different network structures moderate the negative effects of technological change on intergenerational mobility.
+
+In my work on fertility, I analyze recent fertility dynamics, particularly the effects of the COVID-19 pandemic and the broader polycrisis. I also study individual-level drivers of low fertility, including individuals’ social networks and perceived societal uncertainty alongside more established determinants, using survey experiments among other methods.
+
+Finally, I investigate the gap between individuals’ fertility ideals and realized fertility, as well as the factors that drive this gap, developing novel survey items fielded in my own surveys and in the UNFPA Demographic Futures survey.
+
+::: {.visit-note}
+**Research visit · Oxford**  
+6 October–5 December 2026 · Department of Social Policy and Intervention and Institute for New Economic Thinking, University of Oxford.
+:::
+
+[Publications & work in progress](publications.qmd){.btn .btn-primary} [Download CV](cv.pdf){.btn .btn-outline-primary}
+
+## Institutional profiles
+
+[Bocconi PhD programme](https://www.unibocconi.it/en/programs/phd/phd-social-and-political-science/current-phd-students-social-and-political-science) · [Dondena Centre](https://dondena.unibocconi.eu/people/internal-researchers/samuel-plach) · [INET Oxford](https://www.inet.ox.ac.uk/people/samuel-plach)

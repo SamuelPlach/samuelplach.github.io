@@ -34,7 +34,11 @@ Research visit · Oxford
 [Find out more here](#oxford-visit).
 :::
 
-[Publications & work in progress](#publications){.btn .btn-primary} [Download CV](cv.pdf){.btn .btn-outline-primary}
+[Work in progress & publications](#work-in-progress){.btn .btn-primary} [Download CV](cv.pdf){.btn .btn-outline-primary}
+
+## Work in Progress {#work-in-progress .major-section}
+
+{{< include _work-in-progress.qmd >}}
 
 ## Publications {#publications .major-section}
 

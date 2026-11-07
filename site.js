@@ -64,7 +64,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
-  const names = ['home', 'publications', 'cv'];
+  const names = ['home', 'work-in-progress', 'publications', 'cv'];
   const targets = names.map(id => document.getElementById(id));
   const nav = [...document.querySelectorAll('.navbar a.nav-link')].filter(a => names.includes(a.hash.slice(1)));
   const syncNavigation = () => {

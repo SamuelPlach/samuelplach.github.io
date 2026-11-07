@@ -1,0 +1,171 @@
+[Download my CV (PDF)](cv.pdf){.btn .btn-primary}
+
+CV updated 7 November 2026.
+
+### Education
+
+**PhD in Social and Political Sciences** · [Bocconi University](https://www.unibocconi.it/en/programs/phd/phd-social-and-political-science/current-phd-students-social-and-political-science)  
+September 2022–expected June 2027
+
+**MSc in Economics and Social Sciences** · Bocconi University  
+September 2017–April 2020
+
+**BSc in Economics and Business Sciences** · University of Konstanz  
+September 2012–July 2016
+
+### Professional experience
+
+::: {.cv-entry}
+**Research Assistant · [Dondena Centre for Research on Social Dynamics and Public Policy, Bocconi University](https://dondena.unibocconi.eu/people/internal-researchers/samuel-plach)**  
+February 2026–November 2026 · Milan, Italy
+
+- **Identities, Migration, Democracy (We-ID)**, Horizon Europe project of A. Aassve: Cohesion through resilient democratic communities.
+:::
+
+::: {.cv-entry}
+**Research Assistant · Dondena Centre, Bocconi University**  
+September 2025–January 2026 · Milan, Italy
+
+- **Towards a Resilient Future of Europe (FutuRes)**, European Research Executive Agency Horizon 2022 project of A. Aassve: Resilience in ageing European societies.
+:::
+
+::: {.cv-entry}
+**Research Assistant · Dondena Centre, Bocconi University**  
+December 2023–December 2025 · Milan, Italy
+
+- **Ageing well in an ageing society (Age-It)**, PNRR Next Generation EU project of L. Mencarini: Political and social consequences of ageing in Italy and Europe (e.g. intergenerational conflict).
+:::
+
+::: {.cv-entry}
+**Research Assistant · Dondena Centre, Bocconi University**  
+June 2023–September 2023 · Milan, Italy
+
+- **Towards a Resilient Future of Europe (FutuRes)**, European Research Executive Agency Horizon 2022 project of A. Aassve: Resilience in ageing European societies.
+:::
+
+::: {.cv-entry}
+**Research Assistant · Dondena Centre, Bocconi University**  
+July 2020–August 2022 · Milan, Italy
+
+- **Institutional Family Demography (IFAMID)**, ERC project of A. Aassve: The role of culture and institutions in how global change affects socio-demographic behaviors.
+:::
+
+::: {.cv-entry}
+**Research Assistant · Laboratory for Effective Anti-poverty Policies (LEAP), Bocconi University**  
+June 2018–December 2018 · Milan, Italy
+
+- Design, analyze, and disseminate anti-poverty programs by using rigorous evaluation methods.
+:::
+
+### Teaching experience
+
+::: {.cv-entry}
+**Teaching Assistant · MSc in Economics and Social Sciences, Bocconi University**  
+2026/2027 · Milan, Italy
+
+- **Population Dynamics and Economics:** Demographic change and economic and societal dynamics.
+- Focus: In-depth student supervision for final course research project.
+:::
+
+::: {.cv-entry}
+**Teaching Assistant · MSc in Economics and Social Sciences, Bocconi University**  
+2025/2026 · Milan, Italy
+
+- **Population Dynamics and Economics:** Demographic change and economic and societal dynamics.
+- Focus: In-depth student supervision for final course research project.
+:::
+
+### Student advising
+
+**Master’s thesis supervision · MSc in Economics and Social Sciences, Bocconi University**  
+2025/2026 · Milan, Italy
+
+- **Elisa Latora** (currently PhD student in Social and Political Sciences at Bocconi University): *Social networks and the fertility gap*. First supervisor: A. Aassve.
+
+### Funded research projects
+
+**Social Networks and Intergenerational Mobility (SNetMob) · Bocconi University**  
+February 2025–present
+
+- **Focus:** Using register data on the whole Dutch population to investigate the effects of social networks in neighborhoods and schools on intergenerational mobility.
+- **Role:** Co-PI.
+- **Collaborators:** Javier Garcia-Bernardo (Utrecht University); Zachary Parolin (Oxford University); Arnstein Aassve (Bocconi University); Ben Rosche (NYU Abu Dhabi).
+- **Funding (among other sources):** Bocconi Senior Grant (SNetMob); €9,877; PI: A. Aassve.
+
+### Research visits & conferences & referee reviews
+
+#### Research visits
+
+##### Oxford University {#oxford-visit}
+
+**6 October–5 December 2026**  
+[Institute for New Economic Thinking (INET)](https://www.inet.ox.ac.uk/people/samuel-plach) and [Department of Social Policy and Intervention (DSPI)](https://www.spi.ox.ac.uk/)
+
+I am currently visiting Zach Parolin at INET Oxford, working on my projects on social networks and intergenerational mobility. I am enjoying the vibrant and inspiring community at the University of Oxford through engaging discussions with peers and professors at INET, the Department of Social Policy and Intervention (DSPI), and Nuffield College, as well as talks by world-leading researchers in their fields.
+
+<div class="media-grid photo-grid" data-gallery="oxford">
+<figure class="media-card">
+<a class="enlarge-image" href="assets/photos/samuel-oxford.jpg" data-caption="In Oxford, by the Radcliffe Camera." aria-label="Enlarge: In Oxford, by the Radcliffe Camera.">
+<img src="assets/photos/samuel-oxford.jpg" alt="In Oxford, by the Radcliffe Camera." loading="lazy" decoding="async" referrerpolicy="no-referrer">
+<span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
+</a>
+<figcaption>In Oxford, by the Radcliffe Camera.</figcaption>
+</figure>
+<figure class="media-card">
+<a class="enlarge-image" href="https://www.politics.ox.ac.uk/sites/default/files/styles/square_feature_box_420_/public/2021-12/dpir_by_john_cairns_17.6.21-156.jpg?h=e6d4d7ea&amp;itok=1VoDUsZa" data-caption="INET Oxford’s home in the Manor Road Building." aria-label="Enlarge: INET Oxford’s home in the Manor Road Building.">
+<img src="https://www.politics.ox.ac.uk/sites/default/files/styles/square_feature_box_420_/public/2021-12/dpir_by_john_cairns_17.6.21-156.jpg?h=e6d4d7ea&amp;itok=1VoDUsZa" alt="INET Oxford’s home in the Manor Road Building." loading="lazy" decoding="async" referrerpolicy="no-referrer">
+<span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
+</a>
+<figcaption>INET Oxford’s home in the Manor Road Building. <a class="media-source" href="https://www.politics.ox.ac.uk/person/jane-green" target="_blank" rel="noopener noreferrer">Photo: John Cairns / University of Oxford</a></figcaption>
+</figure>
+<figure class="media-card">
+<a class="enlarge-image" href="https://www.spi.ox.ac.uk/sites/g/files/vzsiac716/files/styles/responsive_card_portrait_large/public/dspi_by_john_cairns_8.6.22-177.jpg.webp?h=ae0adac8&amp;itok=kRoaqpaE" data-caption="Barnett House, Department of Social Policy and Intervention." aria-label="Enlarge: Barnett House, Department of Social Policy and Intervention.">
+<img src="https://www.spi.ox.ac.uk/sites/g/files/vzsiac716/files/styles/responsive_card_portrait_large/public/dspi_by_john_cairns_8.6.22-177.jpg.webp?h=ae0adac8&amp;itok=kRoaqpaE" alt="Barnett House, Department of Social Policy and Intervention." loading="lazy" decoding="async" referrerpolicy="no-referrer">
+<span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
+</a>
+<figcaption>Barnett House, Department of Social Policy and Intervention. <a class="media-source" href="https://www.spi.ox.ac.uk/department" target="_blank" rel="noopener noreferrer">Photo: John Cairns / University of Oxford</a></figcaption>
+</figure>
+<figure class="media-card">
+<a class="enlarge-image" href="assets/photos/nuffield-college.jpg" data-caption="Nuffield College, Oxford." aria-label="Enlarge: Nuffield College, Oxford.">
+<img src="assets/photos/nuffield-college.jpg" alt="Nuffield College, Oxford." loading="lazy" decoding="async" referrerpolicy="no-referrer">
+<span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
+</a>
+<figcaption>Nuffield College, Oxford.</figcaption>
+</figure>
+</div>
+
+
+- **Utrecht University**, Department of Methodology and Statistics (M&S) and ODISSEI Social Data Science Team (SoDa) · 8–14 June 2026.
+- **Utrecht University**, Department of Methodology and Statistics (M&S) and ODISSEI Social Data Science Team (SoDa) · March–April 2026.
+- **Korea University**, Institute on Aging, Seoul · 15–17 December 2025.
+- **Utrecht University**, Centre for Complex Systems Studies (CCSS) and Department of Methodology and Statistics (M&S) · November–December 2025.
+- **Princeton University**, Office of Population Research: Cross-National Family Ideals Working Group · 14–17 April 2025.
+
+#### Selected conference presentations
+
+- **EPC (European Population Conference) 2026** · Bologna · 3–6 June 2026.
+- **RC28 (Social Stratification) Spring Meeting 2026** · Sevilla · 20–22 May 2026.
+- **Dondena Workshop on Population and Social Dynamics** · Milan · 11 December 2025.
+- **PopDays 2026** · Cagliari · 4–6 June 2025.
+- **PAA (Population Association of America) Annual Meeting 2025** · Washington DC · 10–13 April 2025.
+- **RC28 (Social Stratification) Spring Meeting 2025** · Università Degli Studi Di Milano · 25–27 March 2025.
+- **Post-Modern Ideals of Family? Results from Eight Low Fertility Countries** · Bocconi University, Milan · 18–19 December 2025.
+- **EPC (European Population Conference) 2024** · Edinburgh · 12–15 June 2024.
+- **Inaugural Dondena-Cornell Gathering (DOCG)** · Rocca Grimalda · 9–12 June 2024.
+
+#### Selected seminar presentations
+
+- **Young Complexity Researcher Lunch: Social Networks and Intergenerational Mobility** · CCSS, Utrecht University · 3 December 2025.
+
+#### Summer schools
+
+- **Summer School on Socioeconomic Opportunity and Inequality**, Bocconi University · 29 June–3 July 2026. Focus: Multidisciplinary underpinning for effective research on inequality dynamics.
+- **Networks—An Interdisciplinary Perspective on Connectivity**, University of Tuebingen · 8–11 October 2024. Focus: Complex networks—different areas and methods.
+- **ODISSEI-SICSS**, Erasmus University Rotterdam · 19 June–1 July 2023. Focus: Computational social sciences; research challenges on forecasting fertility through machine learning tools using panel and administrative data.
+
+#### Referee peer reviews
+
+- **Population and Development Review** · 17 August 2025.
+- **Social Indicators Research** · 11 January 2025 and 3 July 2025.
+- **Population Research and Policy Review** · 14 March 2023 and 1 August 2023.
+- **Journal of Women’s Health** · 7 December 2020.

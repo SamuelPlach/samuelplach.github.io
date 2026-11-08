@@ -3,6 +3,18 @@ title: "Samuel Plach"
 pagetitle: "Samuel Plach | Bocconi University"
 ---
 
+<nav id="page-contents" aria-label="Page contents">
+<details id="contents-panel">
+<summary>On this page</summary>
+<div class="contents-scroll"><ul class="contents-list">
+<li><a href="#home">Home</a></li>
+<li><a href="#work-in-progress">Work in Progress</a></li>
+<li><a href="#publications">Publications</a></li>
+<li><a href="#cv">Curriculum vitae</a></li>
+</ul></div>
+</details>
+</nav>
+
 <span id="home" class="home-anchor" aria-hidden="true"></span>
 
 <img class="profile-photo" src="assets/photos/samuel-plach.jpg" alt="Portrait of Samuel Plach" width="815" height="830">
@@ -27,9 +39,40 @@ In my work on fertility, I analyze recent fertility dynamics, particularly the e
 Finally, I investigate the gap between individuals’ fertility ideals and realized fertility, as well as the factors that drive this gap, developing novel survey items fielded in my own surveys and in the UNFPA Demographic Futures survey.
 
 ::: {.visit-note}
-**Where I am right now**  
+**Where I am right now:**  
 Research visit · Oxford  
 6 October–5 December 2026 · Department of Social Policy and Intervention and Institute for New Economic Thinking, University of Oxford.
+
+<div class="media-grid photo-grid visit-thumbnails" data-gallery="oxford-preview">
+<figure class="media-card">
+<a class="enlarge-image" href="assets/photos/samuel-oxford.jpg" data-caption="In Oxford, by the Radcliffe Camera." aria-label="Enlarge: In Oxford, by the Radcliffe Camera.">
+<img src="assets/photos/samuel-oxford.jpg" alt="In Oxford, by the Radcliffe Camera." loading="lazy" decoding="async" referrerpolicy="no-referrer">
+<span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
+</a>
+<figcaption>In Oxford, by the Radcliffe Camera.</figcaption>
+</figure>
+<figure class="media-card">
+<a class="enlarge-image" href="https://www.politics.ox.ac.uk/sites/default/files/styles/square_feature_box_420_/public/2021-12/dpir_by_john_cairns_17.6.21-156.jpg?h=e6d4d7ea&amp;itok=1VoDUsZa" data-caption="INET Oxford’s home in the Manor Road Building." aria-label="Enlarge: INET Oxford’s home in the Manor Road Building.">
+<img src="https://www.politics.ox.ac.uk/sites/default/files/styles/square_feature_box_420_/public/2021-12/dpir_by_john_cairns_17.6.21-156.jpg?h=e6d4d7ea&amp;itok=1VoDUsZa" alt="INET Oxford’s home in the Manor Road Building." loading="lazy" decoding="async" referrerpolicy="no-referrer">
+<span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
+</a>
+<figcaption>INET Oxford’s home in the Manor Road Building. <a class="media-source" href="https://www.politics.ox.ac.uk/person/jane-green" target="_blank" rel="noopener noreferrer">Photo: John Cairns / University of Oxford</a></figcaption>
+</figure>
+<figure class="media-card">
+<a class="enlarge-image" href="https://www.spi.ox.ac.uk/sites/g/files/vzsiac716/files/styles/responsive_card_portrait_large/public/dspi_by_john_cairns_8.6.22-177.jpg.webp?h=ae0adac8&amp;itok=kRoaqpaE" data-caption="Barnett House, Department of Social Policy and Intervention." aria-label="Enlarge: Barnett House, Department of Social Policy and Intervention.">
+<img src="https://www.spi.ox.ac.uk/sites/g/files/vzsiac716/files/styles/responsive_card_portrait_large/public/dspi_by_john_cairns_8.6.22-177.jpg.webp?h=ae0adac8&amp;itok=kRoaqpaE" alt="Barnett House, Department of Social Policy and Intervention." loading="lazy" decoding="async" referrerpolicy="no-referrer">
+<span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
+</a>
+<figcaption>Barnett House, Department of Social Policy and Intervention. <a class="media-source" href="https://www.spi.ox.ac.uk/department" target="_blank" rel="noopener noreferrer">Photo: John Cairns / University of Oxford</a></figcaption>
+</figure>
+<figure class="media-card">
+<a class="enlarge-image" href="assets/photos/nuffield-college.jpg" data-caption="Nuffield College, Oxford." aria-label="Enlarge: Nuffield College, Oxford.">
+<img src="assets/photos/nuffield-college.jpg" alt="Nuffield College, Oxford." loading="lazy" decoding="async" referrerpolicy="no-referrer">
+<span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
+</a>
+<figcaption>Nuffield College, Oxford.</figcaption>
+</figure>
+</div>
 
 [Find out more here](#oxford-visit).
 :::

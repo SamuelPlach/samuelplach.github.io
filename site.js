@@ -64,29 +64,86 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
-  const names = ['home', 'work-in-progress', 'publications', 'cv'];
-  const targets = names.map(id => document.getElementById(id));
-  const nav = [...document.querySelectorAll('.navbar a.nav-link')].filter(a => names.includes(a.hash.slice(1)));
-  const syncNavigation = () => {
-    let active = 'home';
-    targets.forEach((target, i) => { if (target && target.getBoundingClientRect().top <= 160) active = names[i]; });
-    nav.forEach(link => {
-      const selected = link.hash === `#${active}`;
-      link.classList.toggle('active', selected);
-      if (selected) link.setAttribute('aria-current', 'location');
-      else link.removeAttribute('aria-current');
+  // Use the existing margin for navigation; never reduce the article width.
+  const contents = document.getElementById('page-contents');
+  const main = document.querySelector('main.content');
+  if (!contents || !main) return;
+  const panel = document.getElementById('contents-panel');
+  const list = contents.querySelector('.contents-list');
+  const headings = [...main.querySelectorAll('h2, h3, h4, h5')];
+  const entries = [{target: document.getElementById('home'), label: 'Home', level: 2}];
+  headings.forEach((heading, index) => {
+    const section = heading.parentElement;
+    let target = heading.id ? heading : (section.tagName === 'SECTION' && section.id ? section : heading);
+    if (!target.id) target.id = `contents-heading-${index}`;
+    const label = heading.cloneNode(true);
+    label.querySelectorAll('.anchorjs-link, .anchor-link').forEach(a => a.remove());
+    entries.push({target, label: label.textContent.trim(), level: Number(heading.tagName.slice(1))});
+  });
+  list.replaceChildren();
+  const stack = [{level: 2, list}];
+  entries.forEach(entry => {
+    while (stack.length > 1 && entry.level < stack.at(-1).level) stack.pop();
+    if (entry.level > stack.at(-1).level && stack.at(-1).list.lastElementChild) {
+      const nested = document.createElement('ul');
+      stack.at(-1).list.lastElementChild.append(nested);
+      stack.push({level: entry.level, list: nested});
+    }
+    const li = document.createElement('li');
+    const link = document.createElement('a');
+    link.href = `#${entry.target.id}`;
+    link.textContent = entry.label;
+    li.append(link); stack.at(-1).list.append(li);
+    entry.link = link;
+    link.addEventListener('click', () => {
+      if (!contents.classList.contains('contents-floating')) panel.open = false;
     });
-  };
+  });
+  let previousActive;
+  function syncContents() {
+    const threshold = (document.querySelector('.navbar')?.getBoundingClientRect().bottom || 0) + 95;
+    let active = entries[0];
+    entries.forEach(entry => { if (entry.target.getBoundingClientRect().top <= threshold) active = entry; });
+    if (active === previousActive) return;
+    entries.forEach(entry => {
+      entry.link.classList.toggle('active', entry === active);
+      entry.link.removeAttribute('aria-current');
+      entry.link.parentElement.classList.remove('contains-active');
+    });
+    active.link.setAttribute('aria-current', 'location');
+    for (let parent = active.link.parentElement.parentElement; parent && parent !== list; parent = parent.parentElement) {
+      if (parent.tagName === 'LI') parent.classList.add('contains-active');
+    }
+    if (contents.classList.contains('contents-floating')) {
+      const scroller = contents.querySelector('.contents-scroll');
+      const rect = active.link.getBoundingClientRect(), bounds = scroller.getBoundingClientRect();
+      if (rect.top < bounds.top || rect.bottom > bounds.bottom) scroller.scrollTop += rect.top - bounds.top - bounds.height / 3;
+    }
+    previousActive = active;
+  }
+  function placeContents() {
+    const available = main.getBoundingClientRect().left;
+    const floating = available >= 245 && innerWidth >= 1100;
+    const changed = floating !== contents.classList.contains('contents-floating');
+    contents.classList.toggle('contents-floating', floating);
+    const navHeight = document.querySelector('.navbar')?.getBoundingClientRect().height || 0;
+    contents.style.setProperty('--contents-top', `${navHeight + 16}px`);
+    if (floating) {
+      contents.style.left = `${Math.max(16, available - 235)}px`;
+      panel.open = true;
+    } else {
+      contents.style.removeProperty('left');
+      if (changed) panel.open = false;
+    }
+    syncContents();
+  }
   let scheduled = false;
   window.addEventListener('scroll', () => {
-    if (!scheduled) requestAnimationFrame(() => { syncNavigation(); scheduled = false; });
+    if (!scheduled) requestAnimationFrame(() => { syncContents(); scheduled = false; });
     scheduled = true;
   }, {passive: true});
-  window.addEventListener('hashchange', syncNavigation);
-  nav.forEach(link => link.addEventListener('click', () => {
-    const menu = document.querySelector('.navbar-collapse.show');
-    if (menu && window.bootstrap?.Collapse) window.bootstrap.Collapse.getOrCreateInstance(menu).hide();
-    else if (menu) { menu.classList.remove('show'); document.querySelector('.navbar-toggler')?.setAttribute('aria-expanded','false'); }
-  }));
-  syncNavigation();
+  window.addEventListener('resize', placeContents);
+  window.addEventListener('hashchange', syncContents);
+  window.addEventListener('load', placeContents);
+  placeContents();
 });

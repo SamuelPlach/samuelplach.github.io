@@ -16,15 +16,6 @@ website:
     networks, intergenerational mobility, inequality, and fertility.
   navbar:
     background: light
-    left:
-    - href: index.qmd#home
-      text: Home
-    - href: index.qmd#work-in-progress
-      text: Work in Progress
-    - href: index.qmd#publications
-      text: Publications
-    - href: index.qmd#cv
-      text: CV
     right:
     - icon: envelope
       href: mailto:samuel.plach@unibocconi.it

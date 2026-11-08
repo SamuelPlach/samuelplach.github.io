@@ -112,25 +112,25 @@ I am currently visiting Zach Parolin at INET Oxford, working on my projects on s
 <figcaption>In Oxford, by the Radcliffe Camera.</figcaption>
 </figure>
 <figure class="media-card">
-<a class="enlarge-image" href="https://www.politics.ox.ac.uk/sites/default/files/styles/square_feature_box_420_/public/2021-12/dpir_by_john_cairns_17.6.21-156.jpg?h=e6d4d7ea&amp;itok=1VoDUsZa" data-caption="INET Oxford’s home in the Manor Road Building." aria-label="Enlarge: INET Oxford’s home in the Manor Road Building.">
-<img src="https://www.politics.ox.ac.uk/sites/default/files/styles/square_feature_box_420_/public/2021-12/dpir_by_john_cairns_17.6.21-156.jpg?h=e6d4d7ea&amp;itok=1VoDUsZa" alt="INET Oxford’s home in the Manor Road Building." loading="lazy" decoding="async" referrerpolicy="no-referrer">
+<a class="enlarge-image" href="https://assets-oxweb.admin.ox.ac.uk/styles/uncropped_huge/s3/accessguide-images/manor_road_building_1of1.jpg.avif?itok=-Dc60IVe" data-caption="INET Oxford’s home in the Manor Road Building." aria-label="Enlarge: INET Oxford’s home in the Manor Road Building.">
+<img src="https://assets-oxweb.admin.ox.ac.uk/styles/uncropped_huge/s3/accessguide-images/manor_road_building_1of1.jpg.avif?itok=-Dc60IVe" alt="INET Oxford’s home in the Manor Road Building." loading="lazy" decoding="async" referrerpolicy="no-referrer">
 <span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
 </a>
-<figcaption>INET Oxford’s home in the Manor Road Building. <a class="media-source" href="https://www.politics.ox.ac.uk/person/jane-green" target="_blank" rel="noopener noreferrer">Photo: John Cairns / University of Oxford</a></figcaption>
+<figcaption><a href="https://www.inet.ox.ac.uk/">INET Oxford</a>’s home in the Manor Road Building. <a class="media-source" href="https://www.ox.ac.uk/about/how-we-are-run/equality-diversity/access-guide/academic-depts/manor-road-building" target="_blank" rel="noopener noreferrer">Photo: University of Oxford — Manor Road Building</a></figcaption>
 </figure>
 <figure class="media-card">
 <a class="enlarge-image" href="https://www.spi.ox.ac.uk/sites/g/files/vzsiac716/files/styles/responsive_card_portrait_large/public/dspi_by_john_cairns_8.6.22-177.jpg.webp?h=ae0adac8&amp;itok=kRoaqpaE" data-caption="Barnett House, Department of Social Policy and Intervention." aria-label="Enlarge: Barnett House, Department of Social Policy and Intervention.">
 <img src="https://www.spi.ox.ac.uk/sites/g/files/vzsiac716/files/styles/responsive_card_portrait_large/public/dspi_by_john_cairns_8.6.22-177.jpg.webp?h=ae0adac8&amp;itok=kRoaqpaE" alt="Barnett House, Department of Social Policy and Intervention." loading="lazy" decoding="async" referrerpolicy="no-referrer">
 <span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
 </a>
-<figcaption>Barnett House, Department of Social Policy and Intervention. <a class="media-source" href="https://www.spi.ox.ac.uk/department" target="_blank" rel="noopener noreferrer">Photo: John Cairns / University of Oxford</a></figcaption>
+<figcaption>Barnett House, <a href="https://www.spi.ox.ac.uk/">Department of Social Policy and Intervention</a>. <a class="media-source" href="https://www.spi.ox.ac.uk/department" target="_blank" rel="noopener noreferrer">Photo: DSPI / John Cairns</a></figcaption>
 </figure>
 <figure class="media-card">
 <a class="enlarge-image" href="assets/photos/nuffield-college.jpg" data-caption="Nuffield College, Oxford." aria-label="Enlarge: Nuffield College, Oxford.">
 <img src="assets/photos/nuffield-college.jpg" alt="Nuffield College, Oxford." loading="lazy" decoding="async" referrerpolicy="no-referrer">
 <span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
 </a>
-<figcaption>Nuffield College, Oxford.</figcaption>
+<figcaption><a href="https://www.nuffield.ox.ac.uk/">Nuffield College</a>, Oxford.</figcaption>
 </figure>
 </div>
 
@@ -169,3 +169,6 @@ I am currently visiting Zach Parolin at INET Oxford, working on my projects on s
 - **Social Indicators Research** · 11 January 2025 and 3 July 2025.
 - **Population Research and Policy Review** · 14 March 2023 and 1 August 2023.
 - **Journal of Women’s Health** · 7 December 2020.
+
+
+<div class="site-copyright">© Samuel Plach</div>

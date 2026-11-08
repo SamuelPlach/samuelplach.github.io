@@ -1,5 +1,10 @@
 // Image enlargement progressively enhances ordinary links; no framework required.
 document.addEventListener('DOMContentLoaded', () => {
+  // Retain Quarto's search index and widget, located in the Home content.
+  const search = document.getElementById('quarto-search');
+  const searchHome = document.getElementById('home-search');
+  if (search && searchHome) searchHome.append(search);
+
   const viewer = document.getElementById('image-viewer');
   const display = viewer?.querySelector('.viewer-stage img');
   const caption = document.getElementById('image-viewer-caption');
@@ -70,7 +75,10 @@ document.addEventListener('DOMContentLoaded', () => {
   if (!contents || !main) return;
   const panel = document.getElementById('contents-panel');
   const list = contents.querySelector('.contents-list');
-  const headings = [...main.querySelectorAll('h2, h3, h4, h5')];
+  const headings = [...main.querySelectorAll('h2, h3')].filter(heading => {
+    const publications = heading.closest('section#publications');
+    return !publications || heading.tagName === 'H2';
+  });
   const entries = [{target: document.getElementById('home'), label: 'Home', level: 2}];
   headings.forEach((heading, index) => {
     const section = heading.parentElement;
@@ -95,13 +103,20 @@ document.addEventListener('DOMContentLoaded', () => {
     link.textContent = entry.label;
     li.append(link); stack.at(-1).list.append(li);
     entry.link = link;
-    link.addEventListener('click', () => {
+    link.addEventListener('click', event => {
+      if (event.ctrlKey || event.metaKey || event.shiftKey || event.altKey) return;
+      event.preventDefault();
       if (!contents.classList.contains('contents-floating')) panel.open = false;
+      const offset = contents.classList.contains('contents-floating') ? 24 : 64;
+      const top = entry.label === 'Home' ? 0 : window.scrollY + entry.target.getBoundingClientRect().top - offset;
+      history.pushState(null, '', link.hash);
+      window.scrollTo({top: Math.max(0, top), behavior: 'instant'});
+      syncContents();
     });
   });
   let previousActive;
   function syncContents() {
-    const threshold = (document.querySelector('.navbar')?.getBoundingClientRect().bottom || 0) + 95;
+    const threshold = contents.classList.contains('contents-floating') ? 32 : 72;
     let active = entries[0];
     entries.forEach(entry => { if (entry.target.getBoundingClientRect().top <= threshold) active = entry; });
     if (active === previousActive) return;
@@ -123,13 +138,14 @@ document.addEventListener('DOMContentLoaded', () => {
   }
   function placeContents() {
     const available = main.getBoundingClientRect().left;
-    const floating = available >= 245 && innerWidth >= 1100;
+    const floating = available >= 260 && innerWidth >= 1100;
     const changed = floating !== contents.classList.contains('contents-floating');
     contents.classList.toggle('contents-floating', floating);
-    const navHeight = document.querySelector('.navbar')?.getBoundingClientRect().height || 0;
-    contents.style.setProperty('--contents-top', `${navHeight + 16}px`);
+    const title = document.getElementById('title-block-header');
+    const titleBottom = title ? title.getBoundingClientRect().bottom + window.scrollY : 120;
+    contents.style.setProperty('--contents-top', `${floating ? Math.min(titleBottom + 20, innerHeight * .3) : 8}px`);
     if (floating) {
-      contents.style.left = `${Math.max(16, available - 235)}px`;
+      contents.style.left = `${Math.max(16, available - 285)}px`;
       panel.open = true;
     } else {
       contents.style.removeProperty('left');
@@ -144,6 +160,7 @@ document.addEventListener('DOMContentLoaded', () => {
   }, {passive: true});
   window.addEventListener('resize', placeContents);
   window.addEventListener('hashchange', syncContents);
+  window.addEventListener('popstate', () => requestAnimationFrame(syncContents));
   window.addEventListener('load', placeContents);
   placeContents();
 });

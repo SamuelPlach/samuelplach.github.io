@@ -5,7 +5,7 @@ pagetitle: "Samuel Plach | Bocconi University"
 
 <nav id="page-contents" aria-label="Page contents">
 <details id="contents-panel">
-<summary>On this page</summary>
+<summary aria-label="Open contents menu"><span aria-hidden="true">☰</span></summary>
 <div class="contents-scroll"><ul class="contents-list">
 <li><a href="#home">Home</a></li>
 <li><a href="#work-in-progress">Work in Progress</a></li>
@@ -30,6 +30,8 @@ Researcher, Carlo F. Dondena Centre
 
 <div class="profile-links social-links"><a href="mailto:samuel.plach@unibocconi.it"><img src="assets/icons/email.svg" alt="" aria-hidden="true" width="16" height="16">Email</a><span class="link-separator" aria-hidden="true">·</span><a href="https://scholar.google.com/citations?user=R1I6fq0AAAAJ"><img src="assets/icons/scholar.svg" alt="" aria-hidden="true" width="16" height="16">Google Scholar</a><span class="link-separator" aria-hidden="true">·</span><a href="https://orcid.org/0000-0001-6819-9907"><img src="assets/icons/orcid.svg" alt="" aria-hidden="true" width="16" height="16">ORCID</a><span class="link-separator" aria-hidden="true">·</span><a href="https://www.linkedin.com/in/samuel-plach/"><img src="assets/icons/linkedin.svg" alt="" aria-hidden="true" width="16" height="16">LinkedIn</a></div>
 
+<div id="home-search" role="search" aria-label="Search this website"></div>
+
 I am a PhD candidate in Social and Political Science at Bocconi University and a researcher at the Carlo F. Dondena Centre for Research on Social Dynamics and Public Policy. My research examines how social relationships and wider economic and institutional conditions shape individuals’ opportunities to achieve important life aspirations, including socio-economic upward mobility and the realization of their fertility ideals.
 
 A central strand of my work investigates how social networks and peer environments affect intergenerational mobility. Using large-scale administrative data, I study how exposure to peers in neighborhoods and schools shapes children's later-life outcomes beyond parental income. Using digital-trace data, I also examine how different network structures moderate the negative effects of technological change on intergenerational mobility.
@@ -52,25 +54,25 @@ Research visit · Oxford
 <figcaption>In Oxford, by the Radcliffe Camera.</figcaption>
 </figure>
 <figure class="media-card">
-<a class="enlarge-image" href="https://www.politics.ox.ac.uk/sites/default/files/styles/square_feature_box_420_/public/2021-12/dpir_by_john_cairns_17.6.21-156.jpg?h=e6d4d7ea&amp;itok=1VoDUsZa" data-caption="INET Oxford’s home in the Manor Road Building." aria-label="Enlarge: INET Oxford’s home in the Manor Road Building.">
-<img src="https://www.politics.ox.ac.uk/sites/default/files/styles/square_feature_box_420_/public/2021-12/dpir_by_john_cairns_17.6.21-156.jpg?h=e6d4d7ea&amp;itok=1VoDUsZa" alt="INET Oxford’s home in the Manor Road Building." loading="lazy" decoding="async" referrerpolicy="no-referrer">
+<a class="enlarge-image" href="https://assets-oxweb.admin.ox.ac.uk/styles/uncropped_huge/s3/accessguide-images/manor_road_building_1of1.jpg.avif?itok=-Dc60IVe" data-caption="INET Oxford’s home in the Manor Road Building." aria-label="Enlarge: INET Oxford’s home in the Manor Road Building.">
+<img src="https://assets-oxweb.admin.ox.ac.uk/styles/uncropped_huge/s3/accessguide-images/manor_road_building_1of1.jpg.avif?itok=-Dc60IVe" alt="INET Oxford’s home in the Manor Road Building." loading="lazy" decoding="async" referrerpolicy="no-referrer">
 <span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
 </a>
-<figcaption>INET Oxford’s home in the Manor Road Building. <a class="media-source" href="https://www.politics.ox.ac.uk/person/jane-green" target="_blank" rel="noopener noreferrer">Photo: John Cairns / University of Oxford</a></figcaption>
+<figcaption><a href="https://www.inet.ox.ac.uk/">INET Oxford</a>’s home in the Manor Road Building. <a class="media-source" href="https://www.ox.ac.uk/about/how-we-are-run/equality-diversity/access-guide/academic-depts/manor-road-building" target="_blank" rel="noopener noreferrer">Photo: University of Oxford — Manor Road Building</a></figcaption>
 </figure>
 <figure class="media-card">
 <a class="enlarge-image" href="https://www.spi.ox.ac.uk/sites/g/files/vzsiac716/files/styles/responsive_card_portrait_large/public/dspi_by_john_cairns_8.6.22-177.jpg.webp?h=ae0adac8&amp;itok=kRoaqpaE" data-caption="Barnett House, Department of Social Policy and Intervention." aria-label="Enlarge: Barnett House, Department of Social Policy and Intervention.">
 <img src="https://www.spi.ox.ac.uk/sites/g/files/vzsiac716/files/styles/responsive_card_portrait_large/public/dspi_by_john_cairns_8.6.22-177.jpg.webp?h=ae0adac8&amp;itok=kRoaqpaE" alt="Barnett House, Department of Social Policy and Intervention." loading="lazy" decoding="async" referrerpolicy="no-referrer">
 <span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
 </a>
-<figcaption>Barnett House, Department of Social Policy and Intervention. <a class="media-source" href="https://www.spi.ox.ac.uk/department" target="_blank" rel="noopener noreferrer">Photo: John Cairns / University of Oxford</a></figcaption>
+<figcaption>Barnett House, <a href="https://www.spi.ox.ac.uk/">Department of Social Policy and Intervention</a>. <a class="media-source" href="https://www.spi.ox.ac.uk/department" target="_blank" rel="noopener noreferrer">Photo: DSPI / John Cairns</a></figcaption>
 </figure>
 <figure class="media-card">
 <a class="enlarge-image" href="assets/photos/nuffield-college.jpg" data-caption="Nuffield College, Oxford." aria-label="Enlarge: Nuffield College, Oxford.">
 <img src="assets/photos/nuffield-college.jpg" alt="Nuffield College, Oxford." loading="lazy" decoding="async" referrerpolicy="no-referrer">
 <span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
 </a>
-<figcaption>Nuffield College, Oxford.</figcaption>
+<figcaption><a href="https://www.nuffield.ox.ac.uk/">Nuffield College</a>, Oxford.</figcaption>
 </figure>
 </div>
 

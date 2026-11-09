@@ -44,6 +44,8 @@ The COVID-19 pandemic opened a polycrisis of interrelated disruptions and compou
 
 </details>
 
+<details class="paper-figures">
+<summary>Figures and Tables</summary>
 <div class="media-grid figure-grid" data-gallery="paper-polycrisis">
 <figure class="media-card paper-visual" id="polycrisis-figure-1">
 <figcaption class="visual-title">Figure 1. Total fertility rates (TFRs) relative to the mean in the 5 years before the pandemic (1/3)</figcaption>
@@ -142,6 +144,7 @@ The COVID-19 pandemic opened a polycrisis of interrelated disruptions and compou
 <div class="visual-notes"><p>NOTE: For data availability, refer to the Data section and to Table 1. For estimated coefficients, refer to Figures 5–11. Higher level, aggregated “real magnitudes” do not reflect (weighted) averages of lower level “real magnitudes” as underlying coefficients are estimated using between- and within-variation instead of only within variation. Actual variation in rates of explanatory variables is the actual rates during the polycrisis minus the rate in the 12 months before the polycrisis.</p></div>
 </figure>
 </div>
+</details>
 
 :::
 
@@ -165,6 +168,8 @@ Fertility rates are declining across much of the globe, yet the forces driving t
 
 </details>
 
+<details class="paper-figures">
+<summary>Figures and Tables</summary>
 <p class="paper-version">Figures and table from the last submitted manuscript.</p>
 <div class="media-grid figure-grid" data-gallery="paper-parenthood">
 <figure class="media-card paper-visual" id="parenthood-figure-1">
@@ -191,6 +196,7 @@ Fertility rates are declining across much of the globe, yet the forces driving t
 </a>
 </figure>
 </div>
+</details>
 
 :::
 
@@ -214,6 +220,8 @@ Taking stock of individuals’ perceived family ideals is particularly important
 
 </details>
 
+<details class="paper-figures">
+<summary>Figures and Tables</summary>
 <div class="media-grid figure-grid" data-gallery="paper-ideals">
 <figure class="media-card paper-visual" id="ideals-figure-1">
 <figcaption class="visual-title">Figure 1. Family ideals pooled sample—Experiment 1 (incl. “no children”).</figcaption>
@@ -251,6 +259,7 @@ Taking stock of individuals’ perceived family ideals is particularly important
 </a>
 </figure>
 </div>
+</details>
 
 :::
 
@@ -274,6 +283,8 @@ This paper focuses on nonpharmaceutical interventions (NPIs) to explain fertilit
 
 </details>
 
+<details class="paper-figures">
+<summary>Figures and Tables</summary>
 <div class="media-grid figure-grid" data-gallery="paper-policy">
 <figure class="media-card paper-visual" id="policy-table-1">
 <figcaption class="visual-title">Table 1. Description of the single NPIs used to calculate the containment and closure, health, and economic support indices</figcaption>
@@ -288,7 +299,7 @@ This paper focuses on nonpharmaceutical interventions (NPIs) to explain fertilit
 <img src="assets/papers/policy/figure-1-thumb.webp" alt="Figure 1. CBRs relative to the average in the respective month in the five years before the pandemic for selected countries" width="680" height="226" loading="lazy" decoding="async">
 <span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
 </a>
-<div class="visual-notes"><p>NOTE: CBRs as a ratio to the mean for the respective month in November 2015 to October 2020. The red vertical line is the pandemic cutoff for births (between October and November 2020). Time trends (fitted light blue lines) are estimated based on the OLS model: <math xmlns="http://www.w3.org/1998/Math/MathML" class="note-equation" display="inline" aria-label="relative CBR for country c at time t equals the sum from i equals 1 to 3 of gamma i times t to the power i, plus epsilon c t"><mrow><msub><mi mathvariant="italic">relCBR</mi><mrow><mi>c</mi><mo>,</mo><mi>t</mi></mrow></msub><mo>=</mo><munderover><mo movablelimits="false">∑</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mn>3</mn></munderover><msub><mi>γ</mi><mi>i</mi></msub><msup><mi>t</mi><mi>i</mi></msup><mo>+</mo><msub><mi>ε</mi><mrow><mi>c</mi><mo>,</mo><mi>t</mi></mrow></msub></mrow></math> on data from November 2015 until the most recent observation of birth data by country. Excess CBRs are the difference between actual CBRs and the trend as a ratio to the trend, i.e. the percentage deviation of CBRs from the trend.</p></div>
+<div class="visual-notes"><p>NOTE: CBRs as a ratio to the mean for the respective month in November 2015 to October 2020. The red vertical line is the pandemic cutoff for births (between October and November 2020). Time trends (fitted light blue lines) are estimated based on the OLS model: <math xmlns="http://www.w3.org/1998/Math/MathML" class="note-equation" display="inline" aria-label="relative CBR for country c at time t equals the sum from i equals 1 to 3 of gamma i times t to the power i, plus epsilon c t"><mrow><msub><mi mathvariant="italic">relCBR</mi><mrow><mi>c</mi><mo>,</mo><mi>t</mi></mrow></msub><mo>=</mo><msubsup><mo>∑</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mn>3</mn></msubsup><msub><mi>γ</mi><mi>i</mi></msub><msup><mi>t</mi><mi>i</mi></msup><mo>+</mo><msub><mi>ε</mi><mrow><mi>c</mi><mo>,</mo><mi>t</mi></mrow></msub></mrow></math> on data from November 2015 until the most recent observation of birth data by country. Excess CBRs are the difference between actual CBRs and the trend as a ratio to the trend, i.e. the percentage deviation of CBRs from the trend.</p></div>
 </figure>
 <figure class="media-card paper-visual" id="policy-table-2-part-1">
 <figcaption class="visual-title">Table 2. Mean excess CBRs during the pandemic, and public social expenditure and institutional trust before the pandemic by country (part 1 of 2)</figcaption>
@@ -311,7 +322,7 @@ This paper focuses on nonpharmaceutical interventions (NPIs) to explain fertilit
 <img src="assets/papers/policy/figure-2-thumb.webp" alt="Figure 2. CBRs relative to the average in the respective month in the five years before the pandemic for low and high welfare spending countries from November 2018 to August 2021" width="680" height="287" loading="lazy" decoding="async">
 <span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
 </a>
-<div class="visual-notes"><p>NOTE: CBRs as a ratio to the mean for the respective month in November 2015 to October 2020. The red vertical line is the pandemic cutoff for births (between October and November 2020). Time trends (fitted light blue lines) are estimated based on the OLS model: <math xmlns="http://www.w3.org/1998/Math/MathML" class="note-equation" display="inline" aria-label="relative CBR for country c at time t equals the sum from i equals 1 to 3 of gamma i times t to the power i, plus epsilon c t"><mrow><msub><mi mathvariant="italic">relCBR</mi><mrow><mi>c</mi><mo>,</mo><mi>t</mi></mrow></msub><mo>=</mo><munderover><mo movablelimits="false">∑</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mn>3</mn></munderover><msub><mi>γ</mi><mi>i</mi></msub><msup><mi>t</mi><mi>i</mi></msup><mo>+</mo><msub><mi>ε</mi><mrow><mi>c</mi><mo>,</mo><mi>t</mi></mrow></msub></mrow></math> on data from November 2015 until the most recent observation of birth data by welfare group. Excess CBRs are the difference between actual CBRs and the trend as a ratio to the trend, i.e. the percentage deviation of CBRs from the trend. The seasonally adjusted monthly CBRs and the trend are presented as population weighted averages across countries in each of the groups. Low welfare refers to Southern Europe, East-Asia, and Eastern Europe, while high welfare refers to Western, Central, and Northern Europe.</p></div>
+<div class="visual-notes"><p>NOTE: CBRs as a ratio to the mean for the respective month in November 2015 to October 2020. The red vertical line is the pandemic cutoff for births (between October and November 2020). Time trends (fitted light blue lines) are estimated based on the OLS model: <math xmlns="http://www.w3.org/1998/Math/MathML" class="note-equation" display="inline" aria-label="relative CBR for country c at time t equals the sum from i equals 1 to 3 of gamma i times t to the power i, plus epsilon c t"><mrow><msub><mi mathvariant="italic">relCBR</mi><mrow><mi>c</mi><mo>,</mo><mi>t</mi></mrow></msub><mo>=</mo><msubsup><mo>∑</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mn>3</mn></msubsup><msub><mi>γ</mi><mi>i</mi></msub><msup><mi>t</mi><mi>i</mi></msup><mo>+</mo><msub><mi>ε</mi><mrow><mi>c</mi><mo>,</mo><mi>t</mi></mrow></msub></mrow></math> on data from November 2015 until the most recent observation of birth data by welfare group. Excess CBRs are the difference between actual CBRs and the trend as a ratio to the trend, i.e. the percentage deviation of CBRs from the trend. The seasonally adjusted monthly CBRs and the trend are presented as population weighted averages across countries in each of the groups. Low welfare refers to Southern Europe, East-Asia, and Eastern Europe, while high welfare refers to Western, Central, and Northern Europe.</p></div>
 </figure>
 <figure class="media-card paper-visual" id="policy-figure-3">
 <figcaption class="visual-title">Figure 3. Nonpharmaceutical interventions over time by country groups</figcaption>
@@ -346,6 +357,7 @@ This paper focuses on nonpharmaceutical interventions (NPIs) to explain fertilit
 <div class="visual-notes"><p>NOTE: Pink, violet, and light blue dots (and corresponding 95% CIs) refer to the coefficients on country-group dummies in the model with, respectively, solely country-group dummies; country-group dummies and excess deaths; and country-group dummies, excess deaths, NPI implementation rate indices, and interactions between NPI indices and country-groups (our full model). An alternative method is shown in Table B1 in Appendix B.4 (in the Supporting Information). Here we multiply the coefficients from Figures 4 and 5 with the actual mean monthly NPI implementation rates by country-groups (illustrated in Figure 3).</p></div>
 </figure>
 </div>
+</details>
 
 :::
 
@@ -369,6 +381,8 @@ This study assesses how the implementation and lifting of non-pharmaceutical pol
 
 </details>
 
+<details class="paper-figures">
+<summary>Figures and Tables</summary>
 <div class="media-grid figure-grid" data-gallery="paper-mental">
 <figure class="media-card paper-visual" id="mental-table-1">
 <figcaption class="visual-title">Table 1. Description of the NPIs studied here.</figcaption>
@@ -420,6 +434,7 @@ This study assesses how the implementation and lifting of non-pharmaceutical pol
 </a>
 </figure>
 </div>
+</details>
 
 :::
 
@@ -443,6 +458,8 @@ Drawing on past pandemics, scholars have suggested that the COVID-19 pandemic wi
 
 </details>
 
+<details class="paper-figures">
+<summary>Figures and Tables</summary>
 <div class="media-grid figure-grid" data-gallery="paper-births">
 <figure class="media-card paper-visual" id="births-table-1">
 <figcaption class="visual-title">Table 1. Year-to-year t test comparison for CBRs by country</figcaption>
@@ -469,6 +486,7 @@ Drawing on past pandemics, scholars have suggested that the COVID-19 pandemic wi
 <div class="visual-notes"><p>Shown are CBRs as a ratio to the mean for the respective month in 2016–2019. The red vertical line is the pandemic cutoff for births (November 2020). The dashed black line refers to the CBR in the respective month being equal to the mean for the respective month in 2016–2019. Time trends (fitted light blue and red lines) are estimated based on the OLS model: <math xmlns="http://www.w3.org/1998/Math/MathML" class="note-equation" display="inline"><mrow><msub><mi>CBRRatio</mi><mi>t</mi></msub><mo>=</mo><mi>β</mi><msub><mi>Pandemic</mi><mi>t</mi></msub><mo>+</mo><msub><mi>γ</mi><mn>1</mn></msub><msub><mi>Time</mi><mi>t</mi></msub><mo>+</mo><msub><mi>γ</mi><mn>2</mn></msub><msubsup><mi>Time</mi><mi>t</mi><mn>2</mn></msubsup><mo>+</mo><msub><mi>γ</mi><mn>3</mn></msub><msubsup><mi>Time</mi><mi>t</mi><mn>3</mn></msubsup><mo>+</mo><msub><mi>ε</mi><mi>t</mi></msub></mrow></math>.</p></div>
 </figure>
 </div>
+</details>
 
 :::
 
@@ -492,6 +510,8 @@ The coronavirus disease 2019 (COVID-19) pandemic will have consequences for huma
 
 </details>
 
+<details class="paper-figures">
+<summary>Figures and Tables</summary>
 <div class="media-grid figure-grid" data-gallery="paper-science">
 <figure class="media-card paper-visual" id="science-figure">
 <figcaption class="visual-title">Possible post-pandemic fertility trajectories according to regional income level</figcaption>
@@ -502,6 +522,7 @@ The coronavirus disease 2019 (COVID-19) pandemic will have consequences for huma
 <div class="visual-notes"><p>The social measures aimed at reducing coronavirus disease 2019 (COVID-19) infection may be expected to have different effects on fertility, depending on societies’ development and stage of the demographic transition, and ultimately, on population density and age distribution. ART, assisted reproductive technology. Graphic: H. Bishop/Science.</p></div>
 </figure>
 </div>
+</details>
 
 :::
 

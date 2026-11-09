@@ -136,10 +136,16 @@ body { padding-top: 0 !important; }
 .profile-photo { margin-top: .25rem; }
 .home-anchor { top: 0; }
 [id] { scroll-margin-top: 24px; }
-#home-search { margin: 0 0 1.6rem; max-width: 26rem; }
-#home-search #quarto-search { width: 100%; max-width: none; margin: 0; }
-#home-search .aa-Autocomplete { width: 100%; }
-#home-search .aa-Form { background: #fffaf6; border-color: #d6cec7; border-radius: 4px; }
+/* Compact Home actions use Quarto's native overlay search. */
+.home-actions { display: flex; align-items: center; flex-wrap: wrap; gap: 1.6rem; margin: -.35rem 0 1.6rem; }
+.cv-download { display: inline-flex; align-items: center; gap: .4rem; padding: .3rem .6rem; border: 1px solid #255e6840; border-radius: 4px; color: var(--accent); font-size: .84rem; line-height: 1.5; text-decoration: none; }
+.cv-download:hover { background: #255e680a; color: var(--accent); }
+.cv-download svg { flex: none; }
+#home-search { display: flex; align-items: center; margin: 0; }
+#home-search #quarto-search { width: auto; margin: 0; color: var(--accent); }
+#home-search .aa-DetachedSearchButton { background: transparent; border: 0; box-shadow: none; color: var(--accent); padding: .4rem; }
+#home-search .aa-DetachedSearchButtonIcon { color: inherit; }
+#home-search .aa-DetachedSearchButtonPlaceholder { display: none; }
 #page-contents { background: transparent; border: 0; border-radius: 0; box-shadow: none; }
 #page-contents.contents-floating summary { display: none; }
 #page-contents .contents-scroll { padding-inline: 0; }
@@ -154,3 +160,15 @@ body { padding-top: 0 !important; }
 .site-copyright { margin: 3rem 0 0; font-size: .8rem; color: var(--muted); text-align: center; }
 @media (max-width: 1100px) { [id] { scroll-margin-top: 64px; } }
 @media print { #home-search { display: none; } }
+
+/* Paper abstracts and locally hosted figures/tables. */
+.paper-abstract p { text-align: justify; hyphens: auto; }
+.paper-abstract > p:last-child { text-align: left; }
+.paper-visual .visual-title { padding: 0 0 .5rem; color: var(--ink); font-size: .84rem; font-weight: 600; line-height: 1.45; }
+.visual-notes { color: var(--muted); font-size: .76rem; line-height: 1.5; margin-top: .5rem; overflow-wrap: anywhere; }
+.visual-notes p { margin: 0 0 .4rem; }
+.paper-visual .media-source { margin-top: .35rem; }
+.paper-version { font-size: .82rem; color: var(--muted); }
+.viewer-paper-title { font-size: 1rem; line-height: 1.45; font-weight: 600; margin: .5rem 0 .8rem; }
+.viewer-notes .visual-notes { font-size: .88rem; margin-top: .8rem; }
+.viewer-paper-title[hidden], .viewer-notes[hidden], #image-viewer-caption[hidden] { display: none; }

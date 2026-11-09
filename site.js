@@ -18,6 +18,18 @@ document.addEventListener('DOMContentLoaded', () => {
     display.src = link.href;
     display.alt = link.dataset.caption || link.querySelector('img').alt;
     caption.textContent = display.alt;
+    const paper = link.closest('.paper-visual');
+    const paperTitle = viewer.querySelector('.viewer-paper-title');
+    const notes = viewer.querySelector('.viewer-notes');
+    paperTitle.hidden = !paper;
+    paperTitle.textContent = paper ? display.alt : '';
+    caption.hidden = !!paper;
+    viewer.setAttribute('aria-labelledby', paper ? 'image-viewer-paper-title' : 'image-viewer-caption');
+    paperTitle.id = 'image-viewer-paper-title';
+    notes.replaceChildren();
+    const originalNotes = paper?.querySelector('.visual-notes');
+    notes.hidden = !originalNotes;
+    if (originalNotes) notes.append(originalNotes.cloneNode(true));
     viewer.querySelector('.viewer-original').href = link.href;
     viewer.querySelector('.viewer-count').textContent = `${current + 1} / ${group.length}`;
     viewer.querySelector('.viewer-previous').hidden = group.length < 2;

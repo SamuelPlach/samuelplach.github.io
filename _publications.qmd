@@ -44,7 +44,117 @@ The COVID-19 pandemic opened a polycrisis of interrelated disruptions and compou
 
 </details>
 
-[View the paper and figures at the publisher](https://doi.org/10.1111/padr.70091){.paper-source-link}
+<div class="media-grid figure-grid" data-gallery="paper-polycrisis">
+<figure class="media-card paper-visual" id="polycrisis-figure-1">
+<figcaption class="visual-title">Figure 1. Total fertility rates (TFRs) relative to the mean in the 5 years before the pandemic (1/3)</figcaption>
+<a class="enlarge-image" href="assets/papers/polycrisis/figure-1.png" data-caption="Figure 1. Total fertility rates (TFRs) relative to the mean in the 5 years before the pandemic (1/3)" aria-label="Enlarge: Figure 1. Total fertility rates (TFRs) relative to the mean in the 5 years before the pandemic (1/3)">
+<img src="assets/papers/polycrisis/figure-1-thumb.webp" alt="Figure 1. Total fertility rates (TFRs) relative to the mean in the 5 years before the pandemic (1/3)" width="516" height="680" loading="lazy" decoding="async">
+<span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
+</a>
+<div class="visual-notes"><p>NOTES: Plots show TFRs as a ratio to the mean in the five years before the polycrisis (November 2015 to October 2020, taking into account a nine-month shift). Vertical solid lines are the pandemic and Ukraine war cutoffs shifted by nine months to refer to births rather than conceptions (November 2020 and November 2022). Vertical dashed line split the pandemic into, respectively, before and after mass vaccination campaigns started and first and onward years of war. Trends are estimated linearly based on five years of pre-pandemic data, which are also plotted. Excess TFRs used in later analyses are the difference between actual TFRs and the trend as a ratio to the trend, that is, the percentage deviation of TFRs from the trend, which in the plots is simply the difference between dots and line, as values are displayed in relative terms already. Y-axis scales vary slightly for Latvia and Lithuania and later for Finland for illustrative purposes. Russia is reported here for completeness but excluded in any analysis below.</p></div>
+<a class="media-source" href="https://doi.org/10.1111/padr.70091" target="_blank" rel="noopener noreferrer">Source</a>
+</figure>
+<figure class="media-card paper-visual" id="polycrisis-figure-2">
+<figcaption class="visual-title">Figure 2. Total fertility rates (TFRs) relative to the mean in the 5 years before the pandemic (2/3)</figcaption>
+<a class="enlarge-image" href="assets/papers/polycrisis/figure-2.png" data-caption="Figure 2. Total fertility rates (TFRs) relative to the mean in the 5 years before the pandemic (2/3)" aria-label="Enlarge: Figure 2. Total fertility rates (TFRs) relative to the mean in the 5 years before the pandemic (2/3)">
+<img src="assets/papers/polycrisis/figure-2-thumb.webp" alt="Figure 2. Total fertility rates (TFRs) relative to the mean in the 5 years before the pandemic (2/3)" width="578" height="680" loading="lazy" decoding="async">
+<span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
+</a>
+<a class="media-source" href="https://doi.org/10.1111/padr.70091" target="_blank" rel="noopener noreferrer">Source</a>
+</figure>
+<figure class="media-card paper-visual" id="polycrisis-figure-3">
+<figcaption class="visual-title">Figure 3. Total fertility rates (TFRs) relative to the mean in the 5 years before the pandemic (3/3)</figcaption>
+<a class="enlarge-image" href="assets/papers/polycrisis/figure-3.png" data-caption="Figure 3. Total fertility rates (TFRs) relative to the mean in the 5 years before the pandemic (3/3)" aria-label="Enlarge: Figure 3. Total fertility rates (TFRs) relative to the mean in the 5 years before the pandemic (3/3)">
+<img src="assets/papers/polycrisis/figure-3-thumb.webp" alt="Figure 3. Total fertility rates (TFRs) relative to the mean in the 5 years before the pandemic (3/3)" width="437" height="680" loading="lazy" decoding="async">
+<span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
+</a>
+<a class="media-source" href="https://doi.org/10.1111/padr.70091" target="_blank" rel="noopener noreferrer">Source</a>
+</figure>
+<figure class="media-card paper-visual" id="polycrisis-table-1">
+<figcaption class="visual-title">Table 1. Mean monthly excess TFRs during the pandemic and second polycrisis phase and the overall polycrisis</figcaption>
+<a class="enlarge-image" href="assets/papers/polycrisis/table-1.png" data-caption="Table 1. Mean monthly excess TFRs during the pandemic and second polycrisis phase and the overall polycrisis" aria-label="Enlarge: Table 1. Mean monthly excess TFRs during the pandemic and second polycrisis phase and the overall polycrisis">
+<img src="assets/papers/polycrisis/table-1-thumb.webp" alt="Table 1. Mean monthly excess TFRs during the pandemic and second polycrisis phase and the overall polycrisis" width="566" height="680" loading="lazy" decoding="async">
+<span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
+</a>
+<div class="visual-notes"><p>NOTE: Mean monthly excess TFR means for all countries pooled and by country-groups are weighted by country-months of available live birth data during the respective period.</p></div>
+<a class="media-source" href="https://doi.org/10.1111/padr.70091" target="_blank" rel="noopener noreferrer">Source</a>
+</figure>
+<figure class="media-card paper-visual" id="polycrisis-figure-4">
+<figcaption class="visual-title">Figure 4. Polycrisis explanatory variables during two pre-polycrisis years and during the polycrisis.</figcaption>
+<a class="enlarge-image" href="assets/papers/polycrisis/figure-4.png" data-caption="Figure 4. Polycrisis explanatory variables during two pre-polycrisis years and during the polycrisis." aria-label="Enlarge: Figure 4. Polycrisis explanatory variables during two pre-polycrisis years and during the polycrisis.">
+<img src="assets/papers/polycrisis/figure-4-thumb.webp" alt="Figure 4. Polycrisis explanatory variables during two pre-polycrisis years and during the polycrisis." width="650" height="680" loading="lazy" decoding="async">
+<span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
+</a>
+<div class="visual-notes"><p>NOTES: Only countries with observed TFRs are included in the means. Trends are cut off at March 2024, which matches births in December 2024, because most countries (18 of 26) are observed until then. For the Anglo-Saxon countries, trends are already cut off in September 2023, which matches births in June 2024, because at least two of five countries are observed until then. Russia is excluded. The plots for the pooled sample and for the Eastern European countries are on different scales for illustrative purposes.</p></div>
+<a class="media-source" href="https://doi.org/10.1111/padr.70091" target="_blank" rel="noopener noreferrer">Source</a>
+</figure>
+<figure class="media-card paper-visual" id="polycrisis-figure-5">
+<figcaption class="visual-title">Figure 5. Association of total CPI with excess TFRs during the COVID-19 pandemic and second polycrisis phase</figcaption>
+<a class="enlarge-image" href="assets/papers/polycrisis/figure-5.png" data-caption="Figure 5. Association of total CPI with excess TFRs during the COVID-19 pandemic and second polycrisis phase" aria-label="Enlarge: Figure 5. Association of total CPI with excess TFRs during the COVID-19 pandemic and second polycrisis phase">
+<img src="assets/papers/polycrisis/figure-5-thumb.webp" alt="Figure 5. Association of total CPI with excess TFRs during the COVID-19 pandemic and second polycrisis phase" width="680" height="409" loading="lazy" decoding="async">
+<span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
+</a>
+<div class="visual-notes"><p>NOTES: Coefficients can be interpreted as TFR relative to the estimated trend. Russia is not included. Data availability varies slightly across countries: 36 months for Australia; 38 months for Poland, Switzerland, Canada, United Kingdom; 44 months for the United States; 45 months for Lithuania; 47 months for Greece; and 50–52 months for other countries. Countries with less than 50 months of data are distinguished by more transparent colors. Ninety-five percent confidence intervals are shown.</p></div>
+<a class="media-source" href="https://doi.org/10.1111/padr.70091" target="_blank" rel="noopener noreferrer">Source</a>
+</figure>
+<figure class="media-card paper-visual" id="polycrisis-figure-6">
+<figcaption class="visual-title">Figure 6. Association of energy CPI with excess TFRs during the COVID-19 pandemic and second polycrisis phase</figcaption>
+<a class="enlarge-image" href="assets/papers/polycrisis/figure-6.png" data-caption="Figure 6. Association of energy CPI with excess TFRs during the COVID-19 pandemic and second polycrisis phase" aria-label="Enlarge: Figure 6. Association of energy CPI with excess TFRs during the COVID-19 pandemic and second polycrisis phase">
+<img src="assets/papers/polycrisis/figure-6-thumb.webp" alt="Figure 6. Association of energy CPI with excess TFRs during the COVID-19 pandemic and second polycrisis phase" width="680" height="422" loading="lazy" decoding="async">
+<span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
+</a>
+<a class="media-source" href="https://doi.org/10.1111/padr.70091" target="_blank" rel="noopener noreferrer">Source</a>
+</figure>
+<figure class="media-card paper-visual" id="polycrisis-figure-7">
+<figcaption class="visual-title">Figure 7. Association of housing CPI with excess TFRs during the COVID-19 pandemic and second polycrisis phase</figcaption>
+<a class="enlarge-image" href="assets/papers/polycrisis/figure-7.png" data-caption="Figure 7. Association of housing CPI with excess TFRs during the COVID-19 pandemic and second polycrisis phase" aria-label="Enlarge: Figure 7. Association of housing CPI with excess TFRs during the COVID-19 pandemic and second polycrisis phase">
+<img src="assets/papers/polycrisis/figure-7-thumb.webp" alt="Figure 7. Association of housing CPI with excess TFRs during the COVID-19 pandemic and second polycrisis phase" width="680" height="405" loading="lazy" decoding="async">
+<span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
+</a>
+<a class="media-source" href="https://doi.org/10.1111/padr.70091" target="_blank" rel="noopener noreferrer">Source</a>
+</figure>
+<figure class="media-card paper-visual" id="polycrisis-figure-8">
+<figcaption class="visual-title">Figure 8. Association of reversed consumer confidence (CC) with excess TFRs during the COVID-19 pandemic and second polycrisis phase</figcaption>
+<a class="enlarge-image" href="assets/papers/polycrisis/figure-8.png" data-caption="Figure 8. Association of reversed consumer confidence (CC) with excess TFRs during the COVID-19 pandemic and second polycrisis phase" aria-label="Enlarge: Figure 8. Association of reversed consumer confidence (CC) with excess TFRs during the COVID-19 pandemic and second polycrisis phase">
+<img src="assets/papers/polycrisis/figure-8-thumb.webp" alt="Figure 8. Association of reversed consumer confidence (CC) with excess TFRs during the COVID-19 pandemic and second polycrisis phase" width="680" height="424" loading="lazy" decoding="async">
+<span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
+</a>
+<a class="media-source" href="https://doi.org/10.1111/padr.70091" target="_blank" rel="noopener noreferrer">Source</a>
+</figure>
+<figure class="media-card paper-visual" id="polycrisis-figure-9">
+<figcaption class="visual-title">Figure 9. Association of refugee inflow (temporary protection and asylum) with excess TFRs during the COVID-19 pandemic and second polycrisis phase</figcaption>
+<a class="enlarge-image" href="assets/papers/polycrisis/figure-9.png" data-caption="Figure 9. Association of refugee inflow (temporary protection and asylum) with excess TFRs during the COVID-19 pandemic and second polycrisis phase" aria-label="Enlarge: Figure 9. Association of refugee inflow (temporary protection and asylum) with excess TFRs during the COVID-19 pandemic and second polycrisis phase">
+<img src="assets/papers/polycrisis/figure-9-thumb.webp" alt="Figure 9. Association of refugee inflow (temporary protection and asylum) with excess TFRs during the COVID-19 pandemic and second polycrisis phase" width="680" height="414" loading="lazy" decoding="async">
+<span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
+</a>
+<a class="media-source" href="https://doi.org/10.1111/padr.70091" target="_blank" rel="noopener noreferrer">Source</a>
+</figure>
+<figure class="media-card paper-visual" id="polycrisis-figure-10">
+<figcaption class="visual-title">Figure 10. Association of economic policy uncertainty index with excess TFRs during the COVID-19 pandemic and second polycrisis phase</figcaption>
+<a class="enlarge-image" href="assets/papers/polycrisis/figure-10.png" data-caption="Figure 10. Association of economic policy uncertainty index with excess TFRs during the COVID-19 pandemic and second polycrisis phase" aria-label="Enlarge: Figure 10. Association of economic policy uncertainty index with excess TFRs during the COVID-19 pandemic and second polycrisis phase">
+<img src="assets/papers/polycrisis/figure-10-thumb.webp" alt="Figure 10. Association of economic policy uncertainty index with excess TFRs during the COVID-19 pandemic and second polycrisis phase" width="680" height="418" loading="lazy" decoding="async">
+<span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
+</a>
+<a class="media-source" href="https://doi.org/10.1111/padr.70091" target="_blank" rel="noopener noreferrer">Source</a>
+</figure>
+<figure class="media-card paper-visual" id="polycrisis-figure-11">
+<figcaption class="visual-title">Figure 11. Association of geopolitical risk index with excess TFRs during the COVID-19 pandemic and second polycrisis phase</figcaption>
+<a class="enlarge-image" href="assets/papers/polycrisis/figure-11.png" data-caption="Figure 11. Association of geopolitical risk index with excess TFRs during the COVID-19 pandemic and second polycrisis phase" aria-label="Enlarge: Figure 11. Association of geopolitical risk index with excess TFRs during the COVID-19 pandemic and second polycrisis phase">
+<img src="assets/papers/polycrisis/figure-11-thumb.webp" alt="Figure 11. Association of geopolitical risk index with excess TFRs during the COVID-19 pandemic and second polycrisis phase" width="680" height="434" loading="lazy" decoding="async">
+<span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
+</a>
+<a class="media-source" href="https://doi.org/10.1111/padr.70091" target="_blank" rel="noopener noreferrer">Source</a>
+</figure>
+<figure class="media-card paper-visual" id="polycrisis-table-2">
+<figcaption class="visual-title">Table 2. Overall explained excess TFRs relative to the trend (in %): “Real magnitudes” as actual variation in rates of explanatory variables · marginal “effects” compared to observed excess TFRs</figcaption>
+<a class="enlarge-image" href="assets/papers/polycrisis/table-2.png" data-caption="Table 2. Overall explained excess TFRs relative to the trend (in %): “Real magnitudes” as actual variation in rates of explanatory variables · marginal “effects” compared to observed excess TFRs" aria-label="Enlarge: Table 2. Overall explained excess TFRs relative to the trend (in %): “Real magnitudes” as actual variation in rates of explanatory variables · marginal “effects” compared to observed excess TFRs">
+<img src="assets/papers/polycrisis/table-2-thumb.webp" alt="Table 2. Overall explained excess TFRs relative to the trend (in %): “Real magnitudes” as actual variation in rates of explanatory variables · marginal “effects” compared to observed excess TFRs" width="556" height="680" loading="lazy" decoding="async">
+<span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
+</a>
+<div class="visual-notes"><p>NOTE: For data availability, refer to the Data section and to Table 1. For estimated coefficients, refer to Figures 5–11. Higher level, aggregated “real magnitudes” do not reflect (weighted) averages of lower level “real magnitudes” as underlying coefficients are estimated using between- and within-variation instead of only within variation. Actual variation in rates of explanatory variables is the actual rates during the polycrisis minus the rate in the 12 months before the polycrisis.</p></div>
+<a class="media-source" href="https://doi.org/10.1111/padr.70091" target="_blank" rel="noopener noreferrer">Source</a>
+</figure>
+</div>
 
 :::
 
@@ -68,7 +178,35 @@ Fertility rates are declining across much of the globe, yet the forces driving t
 
 </details>
 
-[View the paper and figures at the publisher](https://doi.org/10.1073/pnas.2601690123){.paper-source-link}
+<p class="paper-version">Figures and table from the last submitted manuscript.</p>
+<div class="media-grid figure-grid" data-gallery="paper-parenthood">
+<figure class="media-card paper-visual" id="parenthood-figure-1">
+<figcaption class="visual-title">Figure 1. Average marginal component effects on fertility intentions, by country (ratings)</figcaption>
+<a class="enlarge-image" href="assets/papers/parenthood/figure-1.png" data-caption="Figure 1. Average marginal component effects on fertility intentions, by country (ratings)" aria-label="Enlarge: Figure 1. Average marginal component effects on fertility intentions, by country (ratings)">
+<img src="assets/papers/parenthood/figure-1-thumb.webp" alt="Figure 1. Average marginal component effects on fertility intentions, by country (ratings)" width="586" height="680" loading="lazy" decoding="async">
+<span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
+</a>
+<div class="visual-notes"><p>Notes: Estimates from linear models with respondent fixed effects, country fixed effects in pooled models, vignette order fixed effects, and position fixed effects. Outcome is a 1 to 10 rating of intention to have a child within three years. Standard errors are clustered by respondent.</p></div>
+<a class="media-source" href="https://doi.org/10.1073/pnas.2601690123" target="_blank" rel="noopener noreferrer">Article · visuals: submitted manuscript</a>
+</figure>
+<figure class="media-card paper-visual" id="parenthood-figure-2">
+<figcaption class="visual-title">Figure 2. Income-equivalent trade-offs, as a share of median income and in PPP-adjusted international dollars</figcaption>
+<a class="enlarge-image" href="assets/papers/parenthood/figure-2.png" data-caption="Figure 2. Income-equivalent trade-offs, as a share of median income and in PPP-adjusted international dollars" aria-label="Enlarge: Figure 2. Income-equivalent trade-offs, as a share of median income and in PPP-adjusted international dollars">
+<img src="assets/papers/parenthood/figure-2-thumb.webp" alt="Figure 2. Income-equivalent trade-offs, as a share of median income and in PPP-adjusted international dollars" width="680" height="444" loading="lazy" decoding="async">
+<span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
+</a>
+<div class="visual-notes"><p>Notes: Income-equivalent trade-offs are computed by dividing the coefficient of each policy-support and macro stability factor by the coefficient of income, treating the income factor as continuous. In the upper panel, values are expressed as shares of median monthly income. In the lower panel, values are expressed as monthly income in PPP-adjusted international dollars.</p></div>
+<a class="media-source" href="https://doi.org/10.1073/pnas.2601690123" target="_blank" rel="noopener noreferrer">Article · visuals: submitted manuscript</a>
+</figure>
+<figure class="media-card paper-visual" id="parenthood-table-1">
+<figcaption class="visual-title">Table 1. Descriptive statistics of the sample by country</figcaption>
+<a class="enlarge-image" href="assets/papers/parenthood/table-1.png" data-caption="Table 1. Descriptive statistics of the sample by country" aria-label="Enlarge: Table 1. Descriptive statistics of the sample by country">
+<img src="assets/papers/parenthood/table-1-thumb.webp" alt="Table 1. Descriptive statistics of the sample by country" width="680" height="125" loading="lazy" decoding="async">
+<span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
+</a>
+<a class="media-source" href="https://doi.org/10.1073/pnas.2601690123" target="_blank" rel="noopener noreferrer">Article · visuals: submitted manuscript</a>
+</figure>
+</div>
 
 :::
 
@@ -92,20 +230,46 @@ Taking stock of individuals’ perceived family ideals is particularly important
 
 </details>
 
-<div class="media-grid figure-grid" data-gallery="paper-4">
-<figure class="media-card">
-<a class="enlarge-image" href="https://www.pnas.org/cms/10.1073/pnas.2311847121/asset/5b3bc1d6-6f45-4c39-b106-ce79c0414c9d/assets/images/large/pnas.2311847121fig01.jpg" data-caption="Figure 1. Family ideals, pooled sample—Experiment 1 (including “no children”)." aria-label="Enlarge: Figure 1. Family ideals, pooled sample—Experiment 1 (including “no children”).">
-<img src="https://www.pnas.org/cms/10.1073/pnas.2311847121/asset/5b3bc1d6-6f45-4c39-b106-ce79c0414c9d/assets/images/large/pnas.2311847121fig01.jpg" alt="Figure 1. Family ideals, pooled sample—Experiment 1 (including “no children”)." loading="lazy" decoding="async" referrerpolicy="no-referrer">
+<div class="media-grid figure-grid" data-gallery="paper-ideals">
+<figure class="media-card paper-visual" id="ideals-figure-1">
+<figcaption class="visual-title">Figure 1. Family ideals pooled sample—Experiment 1 (incl. “no children”).</figcaption>
+<a class="enlarge-image" href="assets/papers/ideals/figure-1.png" data-caption="Figure 1. Family ideals pooled sample—Experiment 1 (incl. “no children”)." aria-label="Enlarge: Figure 1. Family ideals pooled sample—Experiment 1 (incl. “no children”).">
+<img src="assets/papers/ideals/figure-1-thumb.webp" alt="Figure 1. Family ideals pooled sample—Experiment 1 (incl. “no children”)." width="674" height="680" loading="lazy" decoding="async">
 <span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
 </a>
-<figcaption>Figure 1. Family ideals, pooled sample—Experiment 1 (including “no children”). <a class="media-source" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10861923/figure/fig01/" target="_blank" rel="noopener noreferrer">Source</a></figcaption>
+<a class="media-source" href="https://doi.org/10.1073/pnas.2311847121" target="_blank" rel="noopener noreferrer">Source</a>
 </figure>
-<figure class="media-card">
-<a class="enlarge-image" href="https://www.pnas.org/cms/10.1073/pnas.2311847121/asset/33426d3d-f5d6-490d-90c5-3a1562597708/assets/images/large/pnas.2311847121fig02.jpg" data-caption="Figure 2. Family ideals, pooled sample—Experiment 2 (excluding “no children”)." aria-label="Enlarge: Figure 2. Family ideals, pooled sample—Experiment 2 (excluding “no children”).">
-<img src="https://www.pnas.org/cms/10.1073/pnas.2311847121/asset/33426d3d-f5d6-490d-90c5-3a1562597708/assets/images/large/pnas.2311847121fig02.jpg" alt="Figure 2. Family ideals, pooled sample—Experiment 2 (excluding “no children”)." loading="lazy" decoding="async" referrerpolicy="no-referrer">
+<figure class="media-card paper-visual" id="ideals-figure-2">
+<figcaption class="visual-title">Figure 2. Family ideals pooled sample—Experiment 2 (excl. “no children”).</figcaption>
+<a class="enlarge-image" href="assets/papers/ideals/figure-2.png" data-caption="Figure 2. Family ideals pooled sample—Experiment 2 (excl. “no children”)." aria-label="Enlarge: Figure 2. Family ideals pooled sample—Experiment 2 (excl. “no children”).">
+<img src="assets/papers/ideals/figure-2-thumb.webp" alt="Figure 2. Family ideals pooled sample—Experiment 2 (excl. “no children”)." width="582" height="680" loading="lazy" decoding="async">
 <span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
 </a>
-<figcaption>Figure 2. Family ideals, pooled sample—Experiment 2 (excluding “no children”). <a class="media-source" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10861923/figure/fig02/" target="_blank" rel="noopener noreferrer">Source</a></figcaption>
+<a class="media-source" href="https://doi.org/10.1073/pnas.2311847121" target="_blank" rel="noopener noreferrer">Source</a>
+</figure>
+<figure class="media-card paper-visual" id="ideals-figure-3">
+<figcaption class="visual-title">Figure 3. Family ideals by country—Experiment 1 (incl. “no children”).</figcaption>
+<a class="enlarge-image" href="assets/papers/ideals/figure-3.png" data-caption="Figure 3. Family ideals by country—Experiment 1 (incl. “no children”)." aria-label="Enlarge: Figure 3. Family ideals by country—Experiment 1 (incl. “no children”).">
+<img src="assets/papers/ideals/figure-3-thumb.webp" alt="Figure 3. Family ideals by country—Experiment 1 (incl. “no children”)." width="582" height="680" loading="lazy" decoding="async">
+<span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
+</a>
+<a class="media-source" href="https://doi.org/10.1073/pnas.2311847121" target="_blank" rel="noopener noreferrer">Source</a>
+</figure>
+<figure class="media-card paper-visual" id="ideals-figure-4">
+<figcaption class="visual-title">Figure 4. Family ideals by country—Experiment 2 (excl. “no children”).</figcaption>
+<a class="enlarge-image" href="assets/papers/ideals/figure-4.png" data-caption="Figure 4. Family ideals by country—Experiment 2 (excl. “no children”)." aria-label="Enlarge: Figure 4. Family ideals by country—Experiment 2 (excl. “no children”).">
+<img src="assets/papers/ideals/figure-4-thumb.webp" alt="Figure 4. Family ideals by country—Experiment 2 (excl. “no children”)." width="271" height="680" loading="lazy" decoding="async">
+<span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
+</a>
+<a class="media-source" href="https://doi.org/10.1073/pnas.2311847121" target="_blank" rel="noopener noreferrer">Source</a>
+</figure>
+<figure class="media-card paper-visual" id="ideals-table-1">
+<figcaption class="visual-title">Table 1. Vignette factors and levels</figcaption>
+<a class="enlarge-image" href="assets/papers/ideals/table-1.png" data-caption="Table 1. Vignette factors and levels" aria-label="Enlarge: Table 1. Vignette factors and levels">
+<img src="assets/papers/ideals/table-1-thumb.webp" alt="Table 1. Vignette factors and levels" width="457" height="680" loading="lazy" decoding="async">
+<span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
+</a>
+<a class="media-source" href="https://doi.org/10.1073/pnas.2311847121" target="_blank" rel="noopener noreferrer">Source</a>
 </figure>
 </div>
 
@@ -131,7 +295,87 @@ This paper focuses on nonpharmaceutical interventions (NPIs) to explain fertilit
 
 </details>
 
-[View the paper and figures at the publisher](https://doi.org/10.1111/padr.12557){.paper-source-link}
+<div class="media-grid figure-grid" data-gallery="paper-policy">
+<figure class="media-card paper-visual" id="policy-table-1">
+<figcaption class="visual-title">Table 1. Description of the single NPIs used to calculate the containment and closure, health, and economic support indices</figcaption>
+<a class="enlarge-image" href="assets/papers/policy/table-1.png" data-caption="Table 1. Description of the single NPIs used to calculate the containment and closure, health, and economic support indices" aria-label="Enlarge: Table 1. Description of the single NPIs used to calculate the containment and closure, health, and economic support indices">
+<img src="assets/papers/policy/table-1-thumb.webp" alt="Table 1. Description of the single NPIs used to calculate the containment and closure, health, and economic support indices" width="588" height="680" loading="lazy" decoding="async">
+<span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
+</a>
+<a class="media-source" href="https://doi.org/10.1111/padr.12557" target="_blank" rel="noopener noreferrer">Source</a>
+</figure>
+<figure class="media-card paper-visual" id="policy-figure-1">
+<figcaption class="visual-title">Figure 1. CBRs relative to the average in the respective month in the five years before the pandemic for selected countries</figcaption>
+<a class="enlarge-image" href="assets/papers/policy/figure-1.png" data-caption="Figure 1. CBRs relative to the average in the respective month in the five years before the pandemic for selected countries" aria-label="Enlarge: Figure 1. CBRs relative to the average in the respective month in the five years before the pandemic for selected countries">
+<img src="assets/papers/policy/figure-1-thumb.webp" alt="Figure 1. CBRs relative to the average in the respective month in the five years before the pandemic for selected countries" width="680" height="226" loading="lazy" decoding="async">
+<span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
+</a>
+<div class="visual-notes"><p>NOTE: CBRs as a ratio to the mean for the respective month in November 2015 to October 2020. The red vertical line is the pandemic cutoff for births (between October and November 2020). Time trends (fitted light blue lines) are estimated based on the OLS model: relCBR<sub>c,t</sub> = ∑<sub>i=1</sub><sup>3</sup> γ<sub>i</sub> t<sup>i</sup> + ε<sub>c,t</sub> on data from November 2015 until the most recent observation of birth data by country. Excess CBRs are the difference between actual CBRs and the trend as a ratio to the trend, i.e. the percentage deviation of CBRs from the trend.</p></div>
+<a class="media-source" href="https://doi.org/10.1111/padr.12557" target="_blank" rel="noopener noreferrer">Source</a>
+</figure>
+<figure class="media-card paper-visual" id="policy-table-2-part-1">
+<figcaption class="visual-title">Table 2. Mean excess CBRs during the pandemic, and public social expenditure and institutional trust before the pandemic by country (part 1 of 2)</figcaption>
+<a class="enlarge-image" href="assets/papers/policy/table-2-part-1.png" data-caption="Table 2. Mean excess CBRs during the pandemic, and public social expenditure and institutional trust before the pandemic by country (part 1 of 2)" aria-label="Enlarge: Table 2. Mean excess CBRs during the pandemic, and public social expenditure and institutional trust before the pandemic by country (part 1 of 2)">
+<img src="assets/papers/policy/table-2-part-1-thumb.webp" alt="Table 2. Mean excess CBRs during the pandemic, and public social expenditure and institutional trust before the pandemic by country (part 1 of 2)" width="680" height="398" loading="lazy" decoding="async">
+<span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
+</a>
+<a class="media-source" href="https://doi.org/10.1111/padr.12557" target="_blank" rel="noopener noreferrer">Source</a>
+</figure>
+<figure class="media-card paper-visual" id="policy-table-2-part-2">
+<figcaption class="visual-title">Table 2. Mean excess CBRs during the pandemic, and public social expenditure and institutional trust before the pandemic by country (part 2 of 2)</figcaption>
+<a class="enlarge-image" href="assets/papers/policy/table-2-part-2.png" data-caption="Table 2. Mean excess CBRs during the pandemic, and public social expenditure and institutional trust before the pandemic by country (part 2 of 2)" aria-label="Enlarge: Table 2. Mean excess CBRs during the pandemic, and public social expenditure and institutional trust before the pandemic by country (part 2 of 2)">
+<img src="assets/papers/policy/table-2-part-2-thumb.webp" alt="Table 2. Mean excess CBRs during the pandemic, and public social expenditure and institutional trust before the pandemic by country (part 2 of 2)" width="680" height="181" loading="lazy" decoding="async">
+<span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
+</a>
+<div class="visual-notes"><p>NOTE: SE/EA/EE refers to Southern Europe, East-Asia, and Eastern Europe (low pre-pandemic public support), while WE/CE/NE refers to Western, Central, and Northern Europe (high pre-pandemic public support). Excess CBRs refer to the difference between the actual CBR and the estimated trend divided by the trend by month. CBRs are first put into relation to the mean for the respective month in the five years before the pandemic to account for seasonality. Means by country-groups for excess CBRs are weighted by country-months of available live birth data during the pandemic. (The means for public social expenditure and trust are not weighted.) CBR data for the United Kingdom include only data for England and Wales (Human Fertility Database 2022). Social Expenditure for family is per head, at constant prices (2015) and constant PPPs (2015), in USD (OECD 2022b). For unemployment, this is divided by the unemployment rate (OECD 2022c; Eurostat 2022), which results in an approximate measure of unemployment support per unemployed person (this multiplied by ratio of labor force to total population). Data on institutional trust come from the most recent World Value Survey (WVS) wave by country (Haerpfer et al. 2021). It is measured on a 4-point Likert scale (1 = Not at all, 2 = Not very much, 3 = Quite a lot, 4 = A great deal). a. The social expenditure on unemployment for Denmark includes voluntary unemployment insurance, that is, private expenditure and is calculated from official country sources (Statistics Denmark 2022) and OECD PPP data (OECD 2022a).</p></div>
+<a class="media-source" href="https://doi.org/10.1111/padr.12557" target="_blank" rel="noopener noreferrer">Source</a>
+</figure>
+<figure class="media-card paper-visual" id="policy-figure-2">
+<figcaption class="visual-title">Figure 2. CBRs relative to the average in the respective month in the five years before the pandemic for low and high welfare spending countries from November 2018 to August 2021</figcaption>
+<a class="enlarge-image" href="assets/papers/policy/figure-2.png" data-caption="Figure 2. CBRs relative to the average in the respective month in the five years before the pandemic for low and high welfare spending countries from November 2018 to August 2021" aria-label="Enlarge: Figure 2. CBRs relative to the average in the respective month in the five years before the pandemic for low and high welfare spending countries from November 2018 to August 2021">
+<img src="assets/papers/policy/figure-2-thumb.webp" alt="Figure 2. CBRs relative to the average in the respective month in the five years before the pandemic for low and high welfare spending countries from November 2018 to August 2021" width="680" height="287" loading="lazy" decoding="async">
+<span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
+</a>
+<div class="visual-notes"><p>NOTE: CBRs as a ratio to the mean for the respective month in November 2015 to October 2020. The red vertical line is the pandemic cutoff for births (between October and November 2020). Time trends (fitted light blue lines) are estimated based on the OLS model: relCBR<sub>c,t</sub> = ∑<sub>i=1</sub><sup>3</sup> γ<sub>i</sub> t<sup>i</sup> + ε<sub>c,t</sub> on data from November 2015 until the most recent observation of birth data by welfare group. Excess CBRs are the difference between actual CBRs and the trend as a ratio to the trend, i.e. the percentage deviation of CBRs from the trend. The seasonally adjusted monthly CBRs and the trend are presented as population weighted averages across countries in each of the groups. Low welfare refers to Southern Europe, East-Asia, and Eastern Europe, while high welfare refers to Western, Central, and Northern Europe.</p></div>
+<a class="media-source" href="https://doi.org/10.1111/padr.12557" target="_blank" rel="noopener noreferrer">Source</a>
+</figure>
+<figure class="media-card paper-visual" id="policy-figure-3">
+<figcaption class="visual-title">Figure 3. Nonpharmaceutical interventions over time by country groups</figcaption>
+<a class="enlarge-image" href="assets/papers/policy/figure-3.png" data-caption="Figure 3. Nonpharmaceutical interventions over time by country groups" aria-label="Enlarge: Figure 3. Nonpharmaceutical interventions over time by country groups">
+<img src="assets/papers/policy/figure-3-thumb.webp" alt="Figure 3. Nonpharmaceutical interventions over time by country groups" width="680" height="585" loading="lazy" decoding="async">
+<span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
+</a>
+<div class="visual-notes"><p>NOTE: The NPI indices refer to the monthly mean implementation rate calculated from the daily mean implementation of the single NPIs. The monthly implementation rate by country is aggregated to different groups of countries. The indices are containment and closure (stay-at home requirements; internal movement restrictions; international travel restrictions; private gathering restrictions; public events cancellations; school closures; workplace closures; public transport closures); health-related (public information campaigns, testing policies; contact tracing; facial coverings, vaccine availability); and economic support (income support; debt/contract relief). An implementation rate of 1 would indicate the implementation of all NPIs for the respective index on all days of the month in all countries in the respective group. Low public support pre-pandemic refers to Southern Europe, East-Asia, and Eastern Europe, while high public support pre-pandemic refers to Western, Central, and Northern Europe. The respective countries comprising each country-group are listed in Table 2.</p></div>
+<a class="media-source" href="https://doi.org/10.1111/padr.12557" target="_blank" rel="noopener noreferrer">Source</a>
+</figure>
+<figure class="media-card paper-visual" id="policy-figure-4">
+<figcaption class="visual-title">Figure 4. The relationship between NPIs and excess CBRs overall and by low versus high public support before the pandemic</figcaption>
+<a class="enlarge-image" href="assets/papers/policy/figure-4.png" data-caption="Figure 4. The relationship between NPIs and excess CBRs overall and by low versus high public support before the pandemic" aria-label="Enlarge: Figure 4. The relationship between NPIs and excess CBRs overall and by low versus high public support before the pandemic">
+<img src="assets/papers/policy/figure-4-thumb.webp" alt="Figure 4. The relationship between NPIs and excess CBRs overall and by low versus high public support before the pandemic" width="680" height="496" loading="lazy" decoding="async">
+<span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
+</a>
+<div class="visual-notes"><p>NOTE: Excess CBRs refer to the difference between the actual CBR and the estimated trend divided by the trend by month, representing the percentage deviation of CBRs from the trend by month. CBRs are first put into relation to the mean for the respective month in the five years before the pandemic to account for seasonality. The group of countries with low public support before the pandemic includes southern European, East Asian, and eastern European countries, while the one with high public support before the pandemic includes western, central, and northern European countries.</p></div>
+<a class="media-source" href="https://doi.org/10.1111/padr.12557" target="_blank" rel="noopener noreferrer">Source</a>
+</figure>
+<figure class="media-card paper-visual" id="policy-figure-5">
+<figcaption class="visual-title">Figure 5. The relationship between NPIs and excess CBRs by groups of countries</figcaption>
+<a class="enlarge-image" href="assets/papers/policy/figure-5.png" data-caption="Figure 5. The relationship between NPIs and excess CBRs by groups of countries" aria-label="Enlarge: Figure 5. The relationship between NPIs and excess CBRs by groups of countries">
+<img src="assets/papers/policy/figure-5-thumb.webp" alt="Figure 5. The relationship between NPIs and excess CBRs by groups of countries" width="680" height="502" loading="lazy" decoding="async">
+<span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
+</a>
+<div class="visual-notes"><p>NOTE: Excess CBRs refer to the difference between the actual CBR and the estimated trend divided by the trend by month, representing the percentage deviation of CBRs from the trend by month. CBRs are first put into relation to the mean for the respective month in the five years before the pandemic to account for seasonality. The respective countries comprising each country-group are listed in Table 2.</p></div>
+<a class="media-source" href="https://doi.org/10.1111/padr.12557" target="_blank" rel="noopener noreferrer">Source</a>
+</figure>
+<figure class="media-card paper-visual" id="policy-figure-6">
+<figcaption class="visual-title">Figure 6. Excess CBRs by low versus high pre-pandemic public support and country-groups, both without and with controlling for excess deaths and NPIs</figcaption>
+<a class="enlarge-image" href="assets/papers/policy/figure-6.png" data-caption="Figure 6. Excess CBRs by low versus high pre-pandemic public support and country-groups, both without and with controlling for excess deaths and NPIs" aria-label="Enlarge: Figure 6. Excess CBRs by low versus high pre-pandemic public support and country-groups, both without and with controlling for excess deaths and NPIs">
+<img src="assets/papers/policy/figure-6-thumb.webp" alt="Figure 6. Excess CBRs by low versus high pre-pandemic public support and country-groups, both without and with controlling for excess deaths and NPIs" width="680" height="502" loading="lazy" decoding="async">
+<span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
+</a>
+<div class="visual-notes"><p>NOTE: Pink, violet, and light blue dots (and corresponding 95% CIs) refer to the coefficients on country-group dummies in the model with, respectively, solely country-group dummies; country-group dummies and excess deaths; and country-group dummies, excess deaths, NPI implementation rate indices, and interactions between NPI indices and country-groups (our full model). An alternative method is shown in Table B1 in Appendix B.4 (in the Supporting Information). Here we multiply the coefficients from Figures 4 and 5 with the actual mean monthly NPI implementation rates by country-groups (illustrated in Figure 3).</p></div>
+<a class="media-source" href="https://doi.org/10.1111/padr.12557" target="_blank" rel="noopener noreferrer">Source</a>
+</figure>
+</div>
 
 :::
 
@@ -155,7 +399,64 @@ This study assesses how the implementation and lifting of non-pharmaceutical pol
 
 </details>
 
-[View the paper and figures at the publisher](https://doi.org/10.1016/j.socscimed.2022.114906){.paper-source-link}
+<div class="media-grid figure-grid" data-gallery="paper-mental">
+<figure class="media-card paper-visual" id="mental-table-1">
+<figcaption class="visual-title">Table 1. Description of the NPIs studied here.</figcaption>
+<a class="enlarge-image" href="assets/papers/mental/table-1.png" data-caption="Table 1. Description of the NPIs studied here." aria-label="Enlarge: Table 1. Description of the NPIs studied here.">
+<img src="assets/papers/mental/table-1-thumb.webp" alt="Table 1. Description of the NPIs studied here." width="645" height="680" loading="lazy" decoding="async">
+<span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
+</a>
+<a class="media-source" href="https://doi.org/10.1016/j.socscimed.2022.114906" target="_blank" rel="noopener noreferrer">Source</a>
+</figure>
+<figure class="media-card paper-visual" id="mental-table-2">
+<figcaption class="visual-title">Table 2. Descriptive statistics. MWB by key groups.</figcaption>
+<a class="enlarge-image" href="assets/papers/mental/table-2.png" data-caption="Table 2. Descriptive statistics. MWB by key groups." aria-label="Enlarge: Table 2. Descriptive statistics. MWB by key groups.">
+<img src="assets/papers/mental/table-2-thumb.webp" alt="Table 2. Descriptive statistics. MWB by key groups." width="576" height="680" loading="lazy" decoding="async">
+<span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
+</a>
+<a class="media-source" href="https://doi.org/10.1016/j.socscimed.2022.114906" target="_blank" rel="noopener noreferrer">Source</a>
+</figure>
+<figure class="media-card paper-visual" id="mental-figure-1">
+<figcaption class="visual-title">Figure 1. Non-pharmaceutical policy interventions: Cross-country average over time.</figcaption>
+<a class="enlarge-image" href="assets/papers/mental/figure-1.png" data-caption="Figure 1. Non-pharmaceutical policy interventions: Cross-country average over time." aria-label="Enlarge: Figure 1. Non-pharmaceutical policy interventions: Cross-country average over time.">
+<img src="assets/papers/mental/figure-1-thumb.webp" alt="Figure 1. Non-pharmaceutical policy interventions: Cross-country average over time." width="680" height="496" loading="lazy" decoding="async">
+<span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
+</a>
+<a class="media-source" href="https://doi.org/10.1016/j.socscimed.2022.114906" target="_blank" rel="noopener noreferrer">Source</a>
+</figure>
+<figure class="media-card paper-visual" id="mental-figure-2">
+<figcaption class="visual-title">Figure 2. The association of non-pharmaceutical policy interventions with mental well-being.</figcaption>
+<a class="enlarge-image" href="assets/papers/mental/figure-2.png" data-caption="Figure 2. The association of non-pharmaceutical policy interventions with mental well-being." aria-label="Enlarge: Figure 2. The association of non-pharmaceutical policy interventions with mental well-being.">
+<img src="assets/papers/mental/figure-2-thumb.webp" alt="Figure 2. The association of non-pharmaceutical policy interventions with mental well-being." width="680" height="478" loading="lazy" decoding="async">
+<span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
+</a>
+<a class="media-source" href="https://doi.org/10.1016/j.socscimed.2022.114906" target="_blank" rel="noopener noreferrer">Source</a>
+</figure>
+<figure class="media-card paper-visual" id="mental-figure-3">
+<figcaption class="visual-title">Figure 3. The association of non-pharmaceutical policy interventions with mental well-being: By gender, educational attainment, sector of activity.</figcaption>
+<a class="enlarge-image" href="assets/papers/mental/figure-3.png" data-caption="Figure 3. The association of non-pharmaceutical policy interventions with mental well-being: By gender, educational attainment, sector of activity." aria-label="Enlarge: Figure 3. The association of non-pharmaceutical policy interventions with mental well-being: By gender, educational attainment, sector of activity.">
+<img src="assets/papers/mental/figure-3-thumb.webp" alt="Figure 3. The association of non-pharmaceutical policy interventions with mental well-being: By gender, educational attainment, sector of activity." width="680" height="496" loading="lazy" decoding="async">
+<span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
+</a>
+<a class="media-source" href="https://doi.org/10.1016/j.socscimed.2022.114906" target="_blank" rel="noopener noreferrer">Source</a>
+</figure>
+<figure class="media-card paper-visual" id="mental-figure-4">
+<figcaption class="visual-title">Figure 4. The association of non-pharmaceutical policy interventions with mental well-being: By family arrangements.</figcaption>
+<a class="enlarge-image" href="assets/papers/mental/figure-4.png" data-caption="Figure 4. The association of non-pharmaceutical policy interventions with mental well-being: By family arrangements." aria-label="Enlarge: Figure 4. The association of non-pharmaceutical policy interventions with mental well-being: By family arrangements.">
+<img src="assets/papers/mental/figure-4-thumb.webp" alt="Figure 4. The association of non-pharmaceutical policy interventions with mental well-being: By family arrangements." width="680" height="496" loading="lazy" decoding="async">
+<span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
+</a>
+<a class="media-source" href="https://doi.org/10.1016/j.socscimed.2022.114906" target="_blank" rel="noopener noreferrer">Source</a>
+</figure>
+<figure class="media-card paper-visual" id="mental-figure-5">
+<figcaption class="visual-title">Figure 5. The association of non-pharmaceutical policy interventions with mental well-being: By country group.</figcaption>
+<a class="enlarge-image" href="assets/papers/mental/figure-5.png" data-caption="Figure 5. The association of non-pharmaceutical policy interventions with mental well-being: By country group." aria-label="Enlarge: Figure 5. The association of non-pharmaceutical policy interventions with mental well-being: By country group.">
+<img src="assets/papers/mental/figure-5-thumb.webp" alt="Figure 5. The association of non-pharmaceutical policy interventions with mental well-being: By country group." width="680" height="476" loading="lazy" decoding="async">
+<span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
+</a>
+<a class="media-source" href="https://doi.org/10.1016/j.socscimed.2022.114906" target="_blank" rel="noopener noreferrer">Source</a>
+</figure>
+</div>
 
 :::
 
@@ -179,13 +480,33 @@ Drawing on past pandemics, scholars have suggested that the COVID-19 pandemic wi
 
 </details>
 
-<div class="media-grid figure-grid" data-gallery="paper-7">
-<figure class="media-card">
-<a class="enlarge-image" href="https://www.pnas.org/cms/10.1073/pnas.2105709118/asset/45e595fc-e453-4b7b-b938-5eac56f2b5b0/assets/images/large/pnas.2105709118fig01.jpg" data-caption="Figure 1. Changes in crude birth rates by country; point estimates and 95% confidence intervals." aria-label="Enlarge: Figure 1. Changes in crude birth rates by country; point estimates and 95% confidence intervals.">
-<img src="https://www.pnas.org/cms/10.1073/pnas.2105709118/asset/45e595fc-e453-4b7b-b938-5eac56f2b5b0/assets/images/large/pnas.2105709118fig01.jpg" alt="Figure 1. Changes in crude birth rates by country; point estimates and 95% confidence intervals." loading="lazy" decoding="async" referrerpolicy="no-referrer">
+<div class="media-grid figure-grid" data-gallery="paper-births">
+<figure class="media-card paper-visual" id="births-table-1">
+<figcaption class="visual-title">Table 1. Year-to-year t test comparison for CBRs by country</figcaption>
+<a class="enlarge-image" href="assets/papers/births/table-1.png" data-caption="Table 1. Year-to-year t test comparison for CBRs by country" aria-label="Enlarge: Table 1. Year-to-year t test comparison for CBRs by country">
+<img src="assets/papers/births/table-1-thumb.webp" alt="Table 1. Year-to-year t test comparison for CBRs by country" width="646" height="680" loading="lazy" decoding="async">
 <span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
 </a>
-<figcaption>Figure 1. Changes in crude birth rates by country; point estimates and 95% confidence intervals. <a class="media-source" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8433569/figure/fig01/" target="_blank" rel="noopener noreferrer">Source</a></figcaption>
+<div class="visual-notes"><p>Pandemic data include CBRs from November 2020 to March 2021 for Denmark, Finland, France, Hungary, The Netherlands, Singapore, Slovenia, Spain, and Sweden; to February 2021 for Germany, Portugal, South Korea, and Switzerland; to January 2021 for Belgium, Israel, and Italy; to December 2020 for Austria, the Czech Republic, Iceland, Norway, and the United States; and to November 2020 for Japan. Prepandemic data include CBRs for corresponding months 1 y before the pandemic. *P &lt; 0.10; **P &lt; 0.05; ***P &lt; 0.01.</p></div>
+<a class="media-source" href="https://doi.org/10.1073/pnas.2105709118" target="_blank" rel="noopener noreferrer">Source</a>
+</figure>
+<figure class="media-card paper-visual" id="births-figure-1">
+<figcaption class="visual-title">Figure 1. Changes in CBRs by country.</figcaption>
+<a class="enlarge-image" href="assets/papers/births/figure-1.png" data-caption="Figure 1. Changes in CBRs by country." aria-label="Enlarge: Figure 1. Changes in CBRs by country.">
+<img src="assets/papers/births/figure-1-thumb.webp" alt="Figure 1. Changes in CBRs by country." width="680" height="563" loading="lazy" decoding="async">
+<span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
+</a>
+<div class="visual-notes"><p>Shown are point estimates and 95% CIs for within-country models. For illustrative purposes, Iceland (β = −0.61) was excluded due to large CIs (−2.23, 1.01).</p></div>
+<a class="media-source" href="https://doi.org/10.1073/pnas.2105709118" target="_blank" rel="noopener noreferrer">Source</a>
+</figure>
+<figure class="media-card paper-visual" id="births-figure-2">
+<figcaption class="visual-title">Figure 2. CBRs relative to the 2016–2019 average for selected countries.</figcaption>
+<a class="enlarge-image" href="assets/papers/births/figure-2.png" data-caption="Figure 2. CBRs relative to the 2016–2019 average for selected countries." aria-label="Enlarge: Figure 2. CBRs relative to the 2016–2019 average for selected countries.">
+<img src="assets/papers/births/figure-2-thumb.webp" alt="Figure 2. CBRs relative to the 2016–2019 average for selected countries." width="458" height="680" loading="lazy" decoding="async">
+<span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
+</a>
+<div class="visual-notes"><p>Shown are CBRs as a ratio to the mean for the respective month in 2016–2019. The red vertical line is the pandemic cutoff for births (November 2020). The dashed black line refers to the CBR in the respective month being equal to the mean for the respective month in 2016–2019. Time trends (fitted light blue and red lines) are estimated based on the OLS model: CBRRatio<sub>t</sub> = βPandemic<sub>t</sub> + γ<sub>1</sub>Time<sub>t</sub> + γ<sub>2</sub>Time<sub>t</sub><sup>2</sup> + γ<sub>3</sub>Time<sub>t</sub><sup>3</sup> + ε<sub>t</sub>.</p></div>
+<a class="media-source" href="https://doi.org/10.1073/pnas.2105709118" target="_blank" rel="noopener noreferrer">Source</a>
 </figure>
 </div>
 
@@ -211,7 +532,17 @@ The coronavirus disease 2019 (COVID-19) pandemic will have consequences for huma
 
 </details>
 
-[View the paper and figures at the publisher](https://doi.org/10.1126/science.abc9520){.paper-source-link}
+<div class="media-grid figure-grid" data-gallery="paper-science">
+<figure class="media-card paper-visual" id="science-figure">
+<figcaption class="visual-title">Possible post-pandemic fertility trajectories according to regional income level</figcaption>
+<a class="enlarge-image" href="assets/papers/science/figure.png" data-caption="Possible post-pandemic fertility trajectories according to regional income level" aria-label="Enlarge: Possible post-pandemic fertility trajectories according to regional income level">
+<img src="assets/papers/science/figure-thumb.webp" alt="Possible post-pandemic fertility trajectories according to regional income level" width="680" height="260" loading="lazy" decoding="async">
+<span class="enlarge-label" aria-hidden="true">Enlarge ↗</span>
+</a>
+<div class="visual-notes"><p>The social measures aimed at reducing coronavirus disease 2019 (COVID-19) infection may be expected to have different effects on fertility, depending on societies’ development and stage of the demographic transition, and ultimately, on population density and age distribution. ART, assisted reproductive technology. Graphic: H. Bishop/Science.</p></div>
+<a class="media-source" href="https://doi.org/10.1126/science.abc9520" target="_blank" rel="noopener noreferrer">Source</a>
+</figure>
+</div>
 
 :::
 

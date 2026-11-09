@@ -18,7 +18,7 @@ website:
     title: false
   search:
     location: navbar
-    type: textbox
+    type: overlay
 format:
   html:
     theme: cosmo

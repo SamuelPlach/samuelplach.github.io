@@ -4,7 +4,7 @@ CV updated 7 November 2026.
 
 ### Education
 
-**PhD in Social and Political Sciences** · [Bocconi University](https://www.unibocconi.it/en/programs/phd/phd-social-and-political-science/current-phd-students-social-and-political-science)  
+**[PhD in Social and Political Sciences](https://www.unibocconi.it/en/programs/phd/phd-social-and-political-science/current-phd-students-social-and-political-science)** · Bocconi University  
 September 2022–expected June 2027
 
 **MSc in Economics and Social Sciences** · Bocconi University  
@@ -23,28 +23,28 @@ February 2026–November 2026 · Milan, Italy
 :::
 
 ::: {.cv-entry}
-**Research Assistant · Dondena Centre, Bocconi University**  
+**Research Assistant · [Dondena Centre for Research on Social Dynamics and Public Policy, Bocconi University](https://dondena.unibocconi.eu/people/internal-researchers/samuel-plach)**  
 September 2025–January 2026 · Milan, Italy
 
 - **Towards a Resilient Future of Europe (FutuRes)**, European Research Executive Agency Horizon 2022 project of A. Aassve: Resilience in ageing European societies.
 :::
 
 ::: {.cv-entry}
-**Research Assistant · Dondena Centre, Bocconi University**  
+**Research Assistant · [Dondena Centre for Research on Social Dynamics and Public Policy, Bocconi University](https://dondena.unibocconi.eu/people/internal-researchers/samuel-plach)**  
 December 2023–December 2025 · Milan, Italy
 
 - **Ageing well in an ageing society (Age-It)**, PNRR Next Generation EU project of L. Mencarini: Political and social consequences of ageing in Italy and Europe (e.g. intergenerational conflict).
 :::
 
 ::: {.cv-entry}
-**Research Assistant · Dondena Centre, Bocconi University**  
+**Research Assistant · [Dondena Centre for Research on Social Dynamics and Public Policy, Bocconi University](https://dondena.unibocconi.eu/people/internal-researchers/samuel-plach)**  
 June 2023–September 2023 · Milan, Italy
 
 - **Towards a Resilient Future of Europe (FutuRes)**, European Research Executive Agency Horizon 2022 project of A. Aassve: Resilience in ageing European societies.
 :::
 
 ::: {.cv-entry}
-**Research Assistant · Dondena Centre, Bocconi University**  
+**Research Assistant · [Dondena Centre for Research on Social Dynamics and Public Policy, Bocconi University](https://dondena.unibocconi.eu/people/internal-researchers/samuel-plach)**  
 July 2020–August 2022 · Milan, Italy
 
 - **Institutional Family Demography (IFAMID)**, ERC project of A. Aassve: The role of culture and institutions in how global change affects socio-demographic behaviors.
@@ -101,7 +101,11 @@ February 2025–present
 **6 October–5 December 2026**  
 [Institute for New Economic Thinking (INET)](https://www.inet.ox.ac.uk/people/samuel-plach) and [Department of Social Policy and Intervention (DSPI)](https://www.spi.ox.ac.uk/)
 
-I am currently visiting Zach Parolin at INET Oxford, working on my projects on social networks and intergenerational mobility. I am enjoying the vibrant and inspiring community at the University of Oxford through engaging discussions with peers and professors at INET, the Department of Social Policy and Intervention (DSPI), and Nuffield College, as well as talks by world-leading researchers in their fields.
+I am currently visiting Zach Parolin at INET Oxford to explore how social networks shape intergenerational mobility. Conversations across INET, the Department of Social Policy and Intervention (DSPI), and Nuffield College are bringing fresh perspectives to my projects—and making this an especially exciting place to develop new ideas.
+
+A highlight has been the chance to join discussions spanning education, inequality, demography, and the future of social science. At Nuffield, I attended Douglas Harris’s talk, [“The US (and UK) Schooling Markets: Vouchers and Other Alternatives to Public Schools”](https://www.nuffield.ox.ac.uk/news-events/events-and-seminars/the-us-and-uk-schooling-markets-mt26-week-1/), as well as Sociology Seminar Series talks by Tom Emery, [“Building on Shifting Sands: Social Science Infrastructure for Secure and Responsible AI Workflows”](https://www.nuffield.ox.ac.uk/news-events/events-and-seminars/sociology-seminar-mt26-week-1/), and Emma Zang, [“Demographic Constraint: Why Aging Societies Struggle to Invest in the Future”](https://www.nuffield.ox.ac.uk/news-events/events-and-seminars/sociology-seminar-mt26-week-3/). Other highlights include Sylvia Walby’s DSPI-organised Sidney Ball Lecture, [“What is violence? How should it be measured? What are the implications for policy to halve violence against women and girls in ten years?”](https://www.spi.ox.ac.uk/sidney-ball-memorial-lectures), and a roundtable discussion with Paul Krugman at INET, among many other seminars.
+
+On **12 November 2026**, I am excited to present my own work at INET on social network effects on intergenerational mobility, focusing on my project on neighbourhood and school peer effects. I look forward to sharing the project and hearing new perspectives from the Oxford community.
 
 <div class="media-grid photo-grid" data-gallery="oxford">
 <figure class="media-card">
